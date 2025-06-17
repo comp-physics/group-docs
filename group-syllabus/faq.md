@@ -1,3 +1,28 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [General Questions](#general-questions)
+    - [What is the focus of the Computational Physics Group?](#what-is-the-focus-of-the-computational-physics-group)
+    - [How do I join the group?](#how-do-i-join-the-group)
+  - [Research and Collaboration](#research-and-collaboration)
+    - [How are research projects assigned?](#how-are-research-projects-assigned)
+    - [How often do we have group meetings?](#how-often-do-we-have-group-meetings)
+    - [What software/programming languages should I know?](#what-softwareprogramming-languages-should-i-know)
+  - [Academic Progress](#academic-progress)
+    - [What are the publication expectations?](#what-are-the-publication-expectations)
+    - [How do I know if I'm making good progress in my research?](#how-do-i-know-if-im-making-good-progress-in-my-research)
+  - [Resources and Support](#resources-and-support)
+    - [What computing resources are available?](#what-computing-resources-are-available)
+    - [Is there funding for conferences?](#is-there-funding-for-conferences)
+    - [What should I do if I'm struggling with my research or coursework?](#what-should-i-do-if-im-struggling-with-my-research-or-coursework)
+  - [Work-Life Balance](#work-life-balance)
+    - [What are the expectations for working hours/days?](#what-are-the-expectations-for-working-hoursdays)
+    - [Can I take vacation time? How much?](#can-i-take-vacation-time-how-much)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Frequently Asked Questions
 
 This document addresses common questions that students and researchers in our group often have.

@@ -27,6 +27,10 @@
 * [Available computers](group-syllabus/computers.md)
 * [Whose hardware is this, anyway?](group-syllabus/hardware.md)
 
+## Resources
+
+* [FAQ - Frequently Asked Questions](group-syllabus/faq.md)
+
 ## Templates
 
 * [For papers](templates/paper)

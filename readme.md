@@ -34,6 +34,13 @@
 * [For figures](templates/paper/figures)
 * [For talks](templates/talks)
 
+## Contributing
+
+This repository is designed to be collaborative.
+Current and former students are encouraged to contribute improvements, corrections, and additions based on their experiences.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to suggest changes or add content.
+
 ## Acknowledgements
 
 Parts of this are borrowed, heavily edited, from the Ph.D. syllabi of [Eric Gilbert](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM) and Mor Maaman.

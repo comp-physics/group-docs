@@ -10,8 +10,6 @@ Welcome to the Computational Physics @ GT Group Documentation! This repository c
 
 - [Welcome to the group!](group-syllabus/intro-to-group.md)
 - [FAQ - Frequently Asked Questions](group-syllabus/faq.md)
-- [Research Process Diagrams](group-syllabus/research-process.md)
-- [PhD Timeline & Milestones](group-syllabus/phd-timeline.md)
 
 ## 🎓 Syllabus
 

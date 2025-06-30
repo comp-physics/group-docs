@@ -122,6 +122,10 @@ Common errors
 * Do not use inline math with full fractions that make your text too small to read!
     * Don't do this (inline): $\frac{a}{b}$
     * Do this: $a/b$
+* Always use \left and \right for scalable delimiters around tall expressions like fractions or summations.
+    * Don't do this: $(1 + a(1 + \frac{a + b}{b}))$
+    * Do this: $\left(1 + a\left(1+ \frac{a + b}{b} \right) \right)$
+    * Note that in the incorrect version, the closing parenthesis is too small and does not scale to the height of the fraction
 
 ### Scientific notation and large/small numbers
 

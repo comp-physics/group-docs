@@ -240,7 +240,6 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 * [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
-* [Adam Wierman: Advising](http://users.cms.caltech.edu/~adamw/advising.html)
 * [How to Write a Good Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf)
 * [Ten simple Rules for Responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036#sec001)
 * [Writing a science paper some dos and don'ts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)

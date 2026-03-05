@@ -32,6 +32,14 @@ theme:
 extra_css:
   - assets/extra.css
 
+extra_javascript:
+  - assets/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
 nav:
   - Home: index.md
   - Syllabus:

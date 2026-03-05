@@ -31,7 +31,7 @@ For example:
 > SPRING 2024 APPLICATION DEADLINE  
 > FRIDAY, September 29, 2023
 
-Details on the review rubric for PURA Salary are found [here](../misc/pura-salary-review-rubric.pdf)
+Details on the review rubric for PURA Salary are available from the [PURA website](https://urop.gatech.edu/pura-salary).
 
 I do not fund undergraduate researchers during their first semester or year working with the group.
 This is primarily due to the start-up time required to get familiar with any project and contribute more directly.

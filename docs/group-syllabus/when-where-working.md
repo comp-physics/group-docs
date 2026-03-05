@@ -1,15 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [The Where and When of Working](#the-where-and-when-of-working)
-  - [Are you working enough? Or too much?](#are-you-working-enough-or-too-much)
-  - [Can I take a vacation?](#can-i-take-a-vacation)
-  - [Work location](#work-location)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## The Where and When of Working
+# The Where and When of Working
 
 One of the biggest challenges for student researchers is time management.
 I will help you set long-term and short-term goals but never directly manage your time or tasks.
@@ -22,14 +12,14 @@ At a high level, you should have a set of daily tasks, but also some higher leve
 I will help you set those, typically going to larger and larger time frames as your research advances.
 For time and task management, use whatever tool works for you: notebooks, task manager apps, text files, etc., but make sure to use _something_.
 
-### Are you working enough? Or too much?
+## Are you working enough? Or too much?
 
 Some parts of this section are particularly applicable to undergraduate student researchers.
 _How much time are you expected to work?_
 There is no one answer to this, but I can put some upper and lower bounds that apply to nearly everyone:
 
 * (Particularly pertinent for UG researchers) You are not working enough if you __do much of your work a few hours before meetings__
-    * If this is you, you should take fewer courses or dedicate more time to research. 
+    * If this is you, you should take fewer courses or dedicate more time to research.
     * _At the very least_, as an undergraduate, you should be working on research at least __10 solid, uninterrupted hours per week__ (on average). However, the more you put in, the more you get out, with some exceptions (see below).
     * No matter how clever and smart you are (which you probably are), if you do not spend enough time on your work, you are (in my experience) highly unlikely to produce a polished piece of fundamental research.
     These things take _time_ (unfortunately).
@@ -47,8 +37,8 @@ There is no one answer to this, but I can put some upper and lower bounds that a
         * Our schedules vary wildly. Getting little done in one week is not much of a signal. Getting little done many weeks in a row, or on average, is more concerning.
     * You got less "visible stuff" done than your colleague
         * Every project is different. Some projects take significant time and effort before one can see fancy videos or nice results (and others are the opposite).
-     
-### Can I take a vacation?
+
+## Can I take a vacation?
 
 You can and should take time off whenever you need it.
 Unhappy or overworked people are unproductive (at least eventually).
@@ -56,10 +46,11 @@ So, from a purely pragmatic point of view, it is also in my best interest that y
 __Do what you need to do to stay happy and healthy.__
 
 Two caveats:
+
 * Avoid taking extra time off near important deadlines when possible (we can discuss and resolve if there is a potential conflict).
 * Communicate with me. If you are not going to be around, let me know because I may need to arrange around this. Also, in case I forget, put a slide in your "updates" slides that says you are out of town.
 
-### Work location
+## Work location
 
 We work in CODA, which has an open space layout, and the group's students sit near each other.
 You will have an assigned desk in or near room S1347.

@@ -1,43 +1,21 @@
-## Formatting your documents
+# Formatting your documents
 
 **Companion documents: [Improving your writing](improving-your-writing.md), [Making a figure](figures.md)**
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Why should I read this?](#why-should-i-read-this)
-- [Consistency](#consistency)
-- [Compiling and other boilerplate](#compiling-and-other-boilerplate)
-- [Preamble and packages](#preamble-and-packages)
-- [Units](#units)
-- [Math symbols](#math-symbols)
-- [Scientific notation and large/small numbers](#scientific-notation-and-largesmall-numbers)
-- [Bibliography](#bibliography)
-- [Referencing your bibliography](#referencing-your-bibliography)
-- [Creating your bibliography](#creating-your-bibliography)
-- [Colors](#colors)
-- [Referencing equations, figures, tables, and sections](#referencing-equations-figures-tables-and-sections)
-  - [Figures, tables, sections](#figures-tables-sections)
-  - [Equations](#equations)
-- ["Dashes"](#dashes)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-### Why should I read this?
+## Why should I read this?
 
 For better or worse, the quality of your figures correlates with the perceived quality of your work.
 Just like the grammatical correctness of your writing, one might wonder if someone is sufficiently careful with their scientific work if they aren't very careful with their figures and presentation.
 I am putting some "rules" below for how to format your documents and figures.
 
-### Consistency
+## Consistency
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for esoteric style choices if they are employed consistently.
 From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plot-scientific-paper):
-> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too. 
+> A clear and consistent design in the figures in your scientific paper will make it easy for your reader to gather the presented information. For this, I suggest to use the same colour and symbols for each variable throughout all your scientific figures. Sample 1 is displayed as red triangles in Figure 1? Make sure it is in Figure 5 too.
 
-### Compiling and other boilerplate
+## Compiling and other boilerplate
 
 * Use LaTeX for all of your documents.
 * Make sure your documents _do not_ compile with errors, especially if you are using Overleaf!
@@ -45,7 +23,7 @@ From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plo
 * On my local computer, I like using `latexmk` for compilation.
 * __Put each sentence on one line of source `.tex` code__
 
-### Preamble and packages
+## Preamble and packages
 
 Always structure your document so that the preamble is separate from the main text (two separate files).
 You can connect them by placing `\input{preamble.tex}` at the top of your main text file `main.tex`, right after the
@@ -55,10 +33,10 @@ You can connect them by placing `\input{preamble.tex}` at the top of your main t
 clause.
 
 In the preamble file, you should include some packages.
-[Here](../templates/paper/preamble.tex) are some examples.
+[Here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/preamble.tex) are some examples.
 Please look them up to see what they do.
 
-For `elsarticle` class files (mine is included [here](../templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
+For `elsarticle` class files (mine is included [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
 
 ```tex
 \documentclass[11pt,sort&compress]{elsarticle}
@@ -77,7 +55,7 @@ For `elsarticle` class files (mine is included [here](../templates/paper/elsarti
 
 Discussion of these colors and their definitions are included below.
 
-### Units
+## Units
 
 Always use a LaTeX package if your quantities use units.
 My preference is
@@ -94,25 +72,27 @@ Use proper package options:
 which configures the `siunitx` package to display units with division `m/s` using the slash symbol (/) instead of the reciprocal form `m s^{-1}`, amongst other things.
 See the template preamble for its use.
 
-### Math symbols
+## Math symbols
 
 Always use consistent math symbols.
 I usually put all of these in a single file that is invoked in the LaTeX preamble via
 ```tex
 \input{mathsymbols.tex}
 ```
-and an example such file is in `templates/paper/mathsymbols.tex` in this repository.
+and an example such file is in [`templates/paper/mathsymbols.tex`](https://github.com/comp-physics/group-docs/blob/master/templates/paper/mathsymbols.tex) in this repository.
 
 Some notation rules you should follow
+
 * Bold lowercase for vectors
 * Bold uppercase for matrices and tensors
 * Non-bold lowercase for scalars/constants
 
 Common errors
+
 * Dimensionless symbols like the Reynolds number __should not__ be italic, but upright.
     * Like this $\mathrm{Re}$
     * Not like this $Re$
-* Super and subscripts that denote text __should not__ be in math/italic symbols but rather upright normal text. 
+* Super and subscripts that denote text __should not__ be in math/italic symbols but rather upright normal text.
     * Like this: $c_{\mathrm{Temp.}}$ or $\mathbf{A}_{\mathrm{Fast}}$
     * This is also OK: $c^{\mathrm{(Temp.)}}$ or $\mathbf{A}^{\mathrm{(Fast)}}$
     * But not like this: $c_{Temp}$ or $\mathbf{A}_{Fast}$
@@ -127,20 +107,21 @@ Common errors
     * Do this: $\left(1 + a\left(1+ \frac{a + b}{b} \right) \right)$
     * Note that in the incorrect version, the closing parenthesis is too small and does not scale to the height of the fraction
 
-### Scientific notation and large/small numbers
+## Scientific notation and large/small numbers
 
 __Rule:__ Never use the notation $4e-5$, $4e+05$, or the like in any paper, presentation, or figure.
 Always use $4 \times 10^{-5}$.
 If units are involved, use `siunitx` and the options listed in the paper template `preamble.tex`.
 
-### Bibliography
+## Bibliography
 
 Always use consistent formatting.
 This might mean more than it seems at first.
 
 Some examples and common errors:
-* Choose to either abbreviate journal names (using the __correct__ abbreviation, Google it!) or use the full journal name (use camel case! _Journal of Fluid Mechanics_ __not__ _Journal of fluid mechanics_), then stick with it. 
-    * Like this (full names): 
+
+* Choose to either abbreviate journal names (using the __correct__ abbreviation, Google it!) or use the full journal name (use camel case! _Journal of Fluid Mechanics_ __not__ _Journal of fluid mechanics_), then stick with it.
+    * Like this (full names):
         * Firouznia, M., Bryngelson, S. H., Saintillan, D. (2023). A spectral boundary integral method for simulating electrohydrodynamic flows in viscous drops. Journal of Computational Physics, 489, 112248.
         * Spratt, J.-S., Rodriguez, M., Schmidmayer, K., Bryngelson, S. H., Yang, J., Franck, C., and Colonius, T. (2021). Characterizing viscoelastic materials via ensemble-based data assimilation of bubble collapse observations. Journal of the Mechanics and Physics of Solids, 152, 104455.
     * Or like this (abbreviations)
@@ -170,13 +151,13 @@ Some examples and common errors:
         * M. A. Nielsen and I. L. Chuang, _Quantum Computation and Quantum Information_ (Cambridge University Press, 2000)
         * T. Kruger, H. Kusumaatmaja, A. Kuzmin, O. Shardt, G. Silva, and E. Viggen, _The lattice Boltzmann method: Principles and practice_ (Springer International Publishing, 2016)
 
-### Referencing your bibliography
+## Referencing your bibliography
 
 Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the `elsarticle` class).
-I recommend the bibliography style file in the template at `templates/paper/bibsty.bst`.
+I recommend the bibliography style file in the template at [`templates/paper/bibsty.bst`](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibsty.bst).
 This is automatically handled if you use the paper template in this repository.
 This way, you will have access to text and parenthetical citations, which render as:
-> One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter's accuracy depends on the parametric model's quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator. 
+> One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter's accuracy depends on the parametric model's quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator.
 via the code
 ```tex
 One can partially address this problem by working in Fourier space or fitting a parametric model to approximate the eddy diffusivity operator~\citep{hamba04,park21}. 
@@ -185,6 +166,7 @@ However, the former requires spatial homogeneity, and the latter's accuracy depe
 ```
 __Note__ the use of `\citep{ref}` and `\citet{ref}` here.
 Text `\citet{ref}` instances can be used as nouns but parenthetical references _cannot_.
+
 * This is OK (via `\citet{ref}`):
     > So and so [1] did this awesome thing.
 * This is not (via `\citep{ref}`):
@@ -192,10 +174,12 @@ Text `\citet{ref}` instances can be used as nouns but parenthetical references _
 
 Always prevent line-breaks via tides `~` between a parenthetical reference and the text before it.
 For example:
+
 * This is correct: `The algorithm is fast, but not as fast as possible~\citep{ref}.`
 * This is not: `The algorithm is fast, but not as fast as possible \citep{ref}.`
 
 We generally want our references at the end of sentences unless they are part of a long list.
+
 * Incorrect:
     > The LBM method [1] is not as accurate as the finite volume method [2].
 * Correct:
@@ -203,12 +187,12 @@ We generally want our references at the end of sentences unless they are part of
 * And this is also acceptable
     > Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
 
-### Creating your bibliography
+## Creating your bibliography
 
 * Use `bibtool` to remove unused entries from your bibliography (`.bib`) file
-    * Remove all unused bibliography entries from your `.bib` file. To do this, 
+    * Remove all unused bibliography entries from your `.bib` file. To do this,
         * Make sure you have `bibtool` installed your your system
-        * Copy a `bibtool.config` file to your document path, mine is located [here](../templates/paper/bibtool.config)
+        * Copy a `bibtool.config` file to your document path, mine is located [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibtool.config)
         * Compile your document (I prefer `latexmk` for this, but a combination of `pdflatex` and `bibtex` also works).
         * Use the command `bibtool -r bibtool.config -x main.aux > test.bib`
         * Now you have a file `test.bib` that contains only the bibliography entries in your document
@@ -219,10 +203,10 @@ We generally want our references at the end of sentences unless they are part of
     * You can see above that it removes certain entries, sorts the document, checks for duplicates, etc.
     * It does this on `test.bib` in the above call. You will want to do it on whatever the `bibtool` output file is.
 
-* Bibliography style file (`.bst`) 
-    * Unless the journal or conference you submit to insists otherwise, use the style file [here](../templates/paper/bibsty.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (invoked via `\citet{}` as above).
+* Bibliography style file (`.bst`)
+    * Unless the journal or conference you submit to insists otherwise, use the style file [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibsty.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (invoked via `\citet{}` as above).
 
-### Colors
+## Colors
 
 I like to use the following color palette in your TeX preamble:
 ```tex
@@ -249,9 +233,9 @@ Setup your hyperrefs this way so that you have an attractive notation of your cr
 \usepackage[colorlinks=true,linkcolor=darkrust,citecolor=darklightblue,urlcolor=darksilver]{hyperref}
 ```
 
-### Referencing equations, figures, tables, and sections
+## Referencing equations, figures, tables, and sections
 
-#### Figures, tables, sections
+### Figures, tables, sections
 
 To keep things consistent, I recommend using the `cleveref` package
 ```tex
@@ -261,7 +245,7 @@ which is invoked for figures, tables, and sections via the commands `\Cref{}` an
 Figures, tables, and sections are always treated as nouns.
 Check out the paper template in this repository for its use in the `preamble.tex` file.
 
-#### Equations
+### Equations
 
 First, labeling them appropriately as
 ```tex
@@ -273,21 +257,24 @@ First, labeling them appropriately as
 and then reference then via `cleveref`! As `\cref{e:lineareqn}`.
 
 Treat your equations as nouns, and never use the abbreviation "eqn." before it.
+
 * Like this: `The algorithm follows from reducing \eqref{e:someqn} to a first-order system.`
-    * Which renders as: 
+    * Which renders as:
     > The algorithm follows from reducing (1) to a first-order system.
 * Not like this: `The algorithm follows from reducing equation \eqref{e:someqn} to a first-order system.`
 * Nor like this: `The algorithm follows from reducing eqn. \eqref{e:someqn} to a first-order system.`
 
-### "Dashes"
+## "Dashes"
 
 Learn the difference between the hyphen (`-` in LaTeX), the en dash (`--` in LaTeX), and the em dash (`---` in LaTeX).
 This is easily Google-able. Here are some references:
+
 * https://grammarist.com/usage/hyphen-en-dash-or-em-dash/
 * https://www.grammarly.com/blog/hyphens-and-dashes/
 * https://editorninja.com/hyphen-vs-en-dash-vs-em-dash/
 
 Some correct examples
+
 * Hyphen
     * Separating words, such as "over-subscribed".
     * Some last names
@@ -297,5 +284,3 @@ Some correct examples
 * Em dash
     * For putting a parenthetical in a sentence, like "I went to the grocery store---one that was extremely far away---and picked up cooking supplies."
         * I recommend avoiding the use of the em dash.
-
-

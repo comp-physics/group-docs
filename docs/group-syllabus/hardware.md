@@ -1,12 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [Whose hardware is this, anyway?](#whose-hardware-is-this-anyway)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Whose hardware is this, anyway?
+# Whose hardware is this, anyway?
 
 During your Ph.D. or, sometimes, undergraduate work, you will acquire hardware that appears to be "from me" to assist with your research.
 This hardware is funded by a grant or some other money issued to my research program through the institute.
@@ -20,4 +13,4 @@ If you feel uncomfortable being responsible for hardware, like a laptop, that yo
 
 __Note:__ This does __not__ mean that if something happens to your laptop or other hardware, you are personally responsible (nor will I be upset)! Such things happen, and over the course of a Ph.D., they are not entirely unlikely. Your responsibility is quite simple and hopefully easy to abide by: do not intentionally modify or abuse the hardware, and the overarching point of the document is clarification of ownership (which is often not obvious to students).
 
-__Aside:__ At time of writing, I only purchase MacBooks for myself and student researchers. There are several reasons for this. Some examples that come to mind are MacOS being UNIX-based with strong software adoption (from native builds of linear algebra libraries to the MS Office suite) and Apple laptops having high quality standards, long battery life, and reliable use for presentations. 
+__Aside:__ At time of writing, I only purchase MacBooks for myself and student researchers. There are several reasons for this. Some examples that come to mind are MacOS being UNIX-based with strong software adoption (from native builds of linear algebra libraries to the MS Office suite) and Apple laptops having high quality standards, long battery life, and reliable use for presentations.

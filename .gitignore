@@ -1,15 +1,1 @@
-*tags
-tags
-
-*.DS_Store
-.DS_Store
-
-**.aux
-**.fls
-**.synctex.gz
-**.log
-**.fdb_latexmk
-**.bbl
-**.blg
-**.spl
-**.out
+site/

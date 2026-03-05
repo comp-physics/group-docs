@@ -1,16 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [Publishing](#publishing)
-  - [Important: The "-X days" internal revision process and deadlines](#important-the--x-days-internal-revision-process-and-deadlines)
-  - [Process: writing alone, better together](#process-writing-alone-better-together)
-  - [Co-authorship](#co-authorship)
-  - [Conference and Other Presentations](#conference-and-other-presentations)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Publishing
+# Publishing
 
 **Companion documents: [Formatting your work](formatting.md), [Improving your writing](improving-your-writing.md), [Making a figure](figures.md), [Responding to reviewers](responding-to-reviewers.md)**
 
@@ -22,7 +11,7 @@ I recommend finding exemplary papers from the target venue to use as referrals a
 While you can and will work with me directly on papers (as I expand on below), my time will always be limited.
 There is no substitute for interactively thinking about your writing compared to other similar scholarship.
 
-### Important: The "-X days" internal revision process and deadlines
+## Important: The "-X days" internal revision process and deadlines
 
 I have an internal deadline of "-X days" for abstracts, presentations, and papers.
 Anything with a deadline must be in the best state you can create __X__ days beforehand, where __X__ is the 7 + the number of pages the document is.
@@ -68,7 +57,7 @@ You can always improve it by changing minor details and iterating back and forth
 If you hold back your work from me, especially if it means missing a deadline, I will have much less time to help you.
 If you miss a deadline sufficiently, I will not have time to review your work and thus won't be able to use it.
 
-### Process: writing alone, better together
+## Process: writing alone, better together
 
 Part of your development as a scholar is being able to plan, outline, and write an academic paper.
 I will be your co-author and collaborator for most of your papers.
@@ -87,7 +76,7 @@ I use the raw `git` interface so I can use `vim` for my typing and compiling loc
 This is particularly useful for generating the `.pdf` files for independent `tikz`/`pgfplots` figures.
 You get a free Overleaf Pro account with your `gatech.edu` email address.
 
-### Co-authorship
+## Co-authorship
 
 As is common in our field, I will likely be a co-author on the papers we work on, which generally means most, if not all, of the papers you lead.
 Further, papers (and projects) often involve other collaborators, including faculty, PhD students, and MS/undergraduate students.
@@ -99,7 +88,7 @@ If you feel uncomfortable with authorship or ordering, please raise it with me i
 Once a paper or abstract is accepted, authorship cannot changed.
 All authorship concerns should be resolved before submission, preferably even as collaborations are budding.
 
-### Conference and Other Presentations
+## Conference and Other Presentations
 
 With many of our papers submitted to highly peer-reviewed conferences, you can expect to be able to present your research in conferences (and similar settings), often to dozens, if not hundreds, of people.
 Later in your Ph.D., you will likely have other research presentations, including seminars and job talks.
@@ -108,4 +97,3 @@ You should expect more of this feedback and iteration earlier in your Ph.D.; it 
 
 I will also likely present your research in invited talks, lectures, and seminars.
 I will give you credit when I do so.
-

@@ -1,18 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Welcome to the Computational Physics @ GT CSE research group!](#welcome-to-the-computational-physics--gt-cse-research-group)
-  - [Getting started](#getting-started)
-    - [CODA](#coda)
-    - [Websites, software, course numbers, and such](#websites-software-course-numbers-and-such)
-    - [Computers](#computers)
-  - [Research meetings](#research-meetings)
-  - [Group GitHub Page](#group-github-page)
-  - [Collaboration](#collaboration)
-  - [Social activities](#social-activities)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Welcome to the Computational Physics @ GT CSE research group!
 
@@ -20,14 +5,14 @@ The most important thing about this document is that I/we are _very glad_ to hav
 You wouldn't be a part of the group otherwise.
 This document has some parts that are specific to Ph.D. students, but much of it applies to undergraduate researchers in the group as well.
 
-## Getting started 
+## Getting started
 
 ### CODA
 
 You will need access to the CODA building.
 GT CSE is on floor 13, and our group is in room S1347.
 We also hold meetings either in my office (S1313) or one of the conference rooms on the 13th floor.
-Request this from Spencer. 
+Request this from Spencer.
 Send him your GTID number. Though times vary, it will likely take a week to "start working."
 
 ### Websites, software, course numbers, and such
@@ -41,16 +26,16 @@ Send him your GTID number. Though times vary, it will likely take a week to "sta
     * If you're reading this, you already have access.
 
 * Zotero, located [here](https://www.zotero.org/groups/4507615/comp-physics/library)
-    * We have an unlimited shared Zotero group where you should post papers and books relevant to your studies. I also randomly reference many texts, and you can often find them available here. 
+    * We have an unlimited shared Zotero group where you should post papers and books relevant to your studies. I also randomly reference many texts, and you can often find them available here.
     * It has an iPhone app, a MacOS/*nix app, a web interface, etc. It is very convenient. After using both significantly, I prefer it over Mendeley.
     * Request access from Spencer.
- 
+
 * Group email list
    * Upon joining, remind Spencer to add you to the `comp-physics@office365.gatech.edu` email list
- 
+
 * Group website, located [here](https://comp-physics.group/team/)
    * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website
- 
+
 * Taking a "special problems" or research "class" with me? Find the course and section number for me below
    * For graduate students
       * CSE
@@ -79,11 +64,12 @@ We maintain a separate page on this [here](computers.md)
 
 ## Research meetings
 
-You will usually have a meeting with Spencer every week (often on Monday). 
+You will usually have a meeting with Spencer every week (often on Monday).
 These sometimes involve you and another student (2-1 meetings).
 During this meeting, you will present an update on your research.
 We also have an in-person group meeting every week.
 Some guidelines apply:
+
 * Have at least one PowerPoint slide for each update, stating the work you did and plan to do in the next week (see examples in the Box `updates/` directory).
 * If you make little progress, that's OK! In fact, the weeks you make the least progress are the most important for updates since my job (in part) is to help you.
 * Even if you have little progress because you were busy with coursework or on a vacation, please put this on a slide so I can keep track of things.
@@ -98,12 +84,12 @@ It also allows us to collaborate freely with corporations, like those at NVIDIA 
 
 ## Collaboration
 
-You are expected to collaborate with your colleagues when appropriate. 
+You are expected to collaborate with your colleagues when appropriate.
 Your colleagues are students within the group and the school more broadly.
 Part of this is willingly and openly sharing your [code](https://opensource.google/docs/why/) and [ideas](https://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=en).
 It makes us all better researchers.
 
 ## Social activities
 
-We try to arrange a group social activity at least every few months. 
+We try to arrange a group social activity at least every few months.
 This means things like going to a neighborhood restaurant or a trivia night, but we do an anonymous poll to see what everyone would enjoy.

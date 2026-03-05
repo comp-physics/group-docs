@@ -1,38 +1,26 @@
-## Doing Research
+# Doing Research
 
 The most important thing you do in graduate school is your research.
 It may seem obvious, but it's easy to lose track of the importance of your research amid all the other competing things you'll be asked to do as a student researcher: take classes, TA a class, submit and review papers, respond to paper reviews, organize/support various activities, etc.
 Some of these will be fun; many will feel more important at the time than making progress on your research.
 However, I would like you to prioritize your research and triage everything else after this.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Selecting problems](#selecting-problems)
-- [Expected Output](#expected-output)
-- [Staying organized](#staying-organized)
-- [Research Ideas and Directions](#research-ideas-and-directions)
-- [Where to find ideas](#where-to-find-ideas)
-- [Deciding what Ideas to Pursue](#deciding-what-ideas-to-pursue)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-### Selecting problems
+## Selecting problems
 
 I advise students to aspire for impact in their work.
 Not by accident, this is also what I hope for in my work (which intersects and overlaps with your work).
 It's important to have _impact_ in mind when approaching problems (before you select and commit your time to them).
 Some guidelines on impact might include:
 
-**What difference will this work make if you succeed?** 
+**What difference will this work make if you succeed?**
+
 - Whose lives will be made better by this research?
 - How will this non-trivially improve upon current state-of-the-art?
 - Why is this one of the most important questions in the field?
 - Will it inspire a new class of methods, systems, tools, or computers?
 
-
 **Who will care about it when you're done?**
+
 - Will government agencies care?
 - Will industry/companies care?
 - Will other academics care enough to cite it?
@@ -40,11 +28,12 @@ Some guidelines on impact might include:
 - Will anyone care about it 10, 20, 50 years in the future?
 
 **How will this change what other people (defined broadly) are doing?**
+
 - Will other researchers change what they're working on after seeing your work?
 - Will practitioners do something different?
 - Will users adopt what you made/found/created?
 
-### Expected Output
+## Expected Output
 
 This is a note about what you should _strive_ to achieve in terms of output during your Ph.D.
 This differs from what I expect as your output, but what you should expect to _try_ to produce.
@@ -76,7 +65,7 @@ This contribution is important for you to become known (even locally) for your e
 Note that if all of these are going on, and with other tasks and roles you will be taking, you are likely to have your plate feel very full.
 You'll need to balance your time and remember to take time off as needed.
 
-### Staying organized
+## Staying organized
 
 I dislike dictating how anyone works, so I minimize 'rules' and keep them flexible when possible.
 But, in general, it's very useful for me to keep track of my research work intentionally.
@@ -90,7 +79,7 @@ Your research work should never live solely on one hard drive.
 I provide every student with a high-capacity backup hard drive.
 If you don't have one, please ask for one.
 
-### Research Ideas and Directions
+## Research Ideas and Directions
 
 _Have ideas!_
 
@@ -106,7 +95,7 @@ Ideas are everywhere; if you let yourself, you'll always have new ones.
 It can be easy to constantly find yourself submerged in the details of ongoing projects without popping up to think about and consider new projects, ideas, and directions.
 Both are important: a good scholar can move between levels of detail (i.e., "What's the right statistical technique for these data in this paper?" to "Which of these 5 new ideas would have the most impact?").
 
-### Where to find ideas
+## Where to find ideas
 
 Some concrete ways in which one might find good ideas:
 
@@ -130,7 +119,7 @@ You can use a file called `ideas.txt` to keep track of new ideas as they come to
 Importantly, while there is no such thing as "too many ideas," you shouldn't pursue more than a few at a time and carefully balance new ideas with ongoing work.
 This brings us to...
 
-### Deciding what Ideas to Pursue
+## Deciding what Ideas to Pursue
 
 What ideas and research direction should you pursue?
 Can a student choose any topic and research direction?
@@ -140,7 +129,7 @@ It's an iterative, long-term process that results in alignment.
 
 This process starts when students pick to work with me and me with them because we have a shared interest.
 I am likely to steer new students towards directions and questions that are interesting (sometimes new, sometimes existing), especially projects that I have funding to work on.
-But I try to entirely avoid "assigning" projects. 
+But I try to entirely avoid "assigning" projects.
 If the student is not excited and motivated about a research direction, the outcome will not likely be good (if you think I put you in this situation, please let me know so we can align).
 Similarly, students can pursue a project that I am less interested in, making me less engaged and less helpful as an advisor.
 The process of coming up with ideas, research questions, and project decisions thus naturally gravitates towards mutually interesting directions that overlap with existing or potential funding.
@@ -148,5 +137,5 @@ The process of coming up with ideas, research questions, and project decisions t
 At the same time, "interest splits" happen, and students often pursue questions and directions.
 If there's no overlap, one option is to switch advisors.
 I have had students leave me to work with other advisors as it became clear that their pursuit and intellectual passion do not overlap with mine.
-This is normal and healthy. 
+This is normal and healthy.
 What is _unhealthy_ is staying in an advising relationship even though passions do not overlap meaningfully.

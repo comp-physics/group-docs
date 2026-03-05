@@ -1,26 +1,12 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [Submitting and going to conferences](#submitting-and-going-to-conferences)
-  - [What's the point, anyway?](#whats-the-point-anyway)
-  - [Am I going?!](#am-i-going)
-  - [Can I go to observe? (without a paper or abstract)](#can-i-go-to-observe-without-a-paper-or-abstract)
-  - [Registration, flights, and hotels](#registration-flights-and-hotels)
-  - [Spend authorization](#spend-authorization)
-  - [Actually going to the conference](#actually-going-to-the-conference)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Submitting and going to conferences
+# Submitting and going to conferences
 
 __Related documents: [Giving talks](giving-talks.md)__
-
 
 Most of this goes for undergraduates and graduate students alike.
 The "spend authorization" part is only for graduate students.
 
-### What's the point, anyway?
+## What's the point, anyway?
 
 Often, in our field, conferences are _not a major_ way to establish impact in a field (as opposed to machine learning, for example); there are some exceptions (SC papers are one).
 Instead, conferences are a way to learn and talk with colleagues about research.
@@ -28,7 +14,7 @@ For newer students, it is a way to see how the research community operates as we
 If you and I both go, I will try to introduce you to people relevant to your work.
 If you go alone, I can give you some folks to "hunt down" while you are there, as they might be familiar with our work.
 
-### Am I going?!
+## Am I going?!
 
 You may be the lead author on a conference abstract or "short paper" but not attend the conference.
 Sometimes, you will attend the conference, but I will not.
@@ -39,7 +25,7 @@ I try to convey these things as quickly as possible, especially if you are going
 But, sometimes, I get quite busy, and things fall through the cracks.
 If you do not know what's going on, I encourage you to ask me!
 
-### Can I go to observe? (without a paper or abstract)
+## Can I go to observe? (without a paper or abstract)
 
 Sometimes, students go to conferences to "observe."
 They do not have a talk to give or an abstract or poster to present.
@@ -48,7 +34,7 @@ However, this can be extremely expensive (more than you might realize).
 This can also hinder my ability to later send you to more conferences where you _will_ have papers to present.
 As a result, I do not support "observation" conference attendance with my own research funds, though sometimes you can win a conference attendance grant (these are conference-specific, and PURA Travel is not sufficient for undergraduate researchers).
 
-### Registration, flights, and hotels
+## Registration, flights, and hotels
 
 I cover all of your conference costs via grant funds.
 As such, you will not incur any personal costs for attending a conference, including registration, flight, hotel, and meals.
@@ -63,26 +49,28 @@ We know we are attending conferences many months in advance, so there is little 
 
 * Per diem: You will be reimbursed for your meals via the per diem rate for the conference location.
 
-### Spend authorization
+## Spend authorization
 
 If you are a graduate student employee (on a GRA: Graduate Research Assistantship), you need a spend authorization to be approved by Georgia Tech before going to a conference.
 To file a spend authorization, go to [Workday](https://wd5.myworkday.com/gatech/d/home.htmld), log in with your GT credentials, and type `Create Spend Authorization` in the search bar at the top of the page.
 This should take you to a web form to fill out.
 
 An example of how to fill this out
+
 * Start Date: A day before you leave for the conference
 * End Date: The day after you return from the conference
 * Description: Travel to attend and give a talk at X conference
-* Business Purpose: Conference/seminar (should autofill) 
+* Business Purpose: Conference/seminar (should autofill)
 
 Click `Add` under `Spend Authorization Lines`
+
 * Expense item: `Miscellaneous - Domestic` or `Miscellaneous - International` (depending on if international or not)
 * Total amount: about 20% more than your actual planned expenses
 * Grant: I will give you a number to copy-paste into here, then link 'Enter,' and it should auto-populate most other fields.
 
 That's it! Ask your colleagues if you have questions, and ask me if they don't know the answer.
 
-### Actually going to the conference
+## Actually going to the conference
 
 Once you have identified the conference you want to attend, the next steps are:  
 

@@ -1,13 +1,5 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
 
-- [The What and Why of a Ph.D.](#the-what-and-why-of-a-phd)
-  - [How long is a Ph.D.?](#how-long-is-a-phd)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## The What and Why of a Ph.D.
+# The What and Why of a Ph.D.
 
 Advising and working with Ph.D. students is the *best part of my job*.
 In fact, it is probably the main reason I chose to be a professor.
@@ -33,7 +25,7 @@ Toward these ends, I will aim to give you as much independence as I think you ca
 I try to assess this case-by-case; if you feel like I misjudged it any time (e.g., too much or too little), please let me know.
 The general path is increasing independence with increasing time.
 
-### How long is a Ph.D.?
+## How long is a Ph.D.?
 
 I believe that your Ph.D. is over when you:
 
@@ -58,7 +50,5 @@ The usual "triangle" argument goes as
   * National laboratories: Medium pay, medium independence
   * Academia: Least pay, most independence. On a personal note, I heavily value the latter, and its often easier to hop from academia to industry than vice-versa. So, here I am.
 
-The Ph.D. takes _very roughly_ 4-7 years, with students headed to the academic job market lean on the longer end, say 5-6. 
+The Ph.D. takes _very roughly_ 4-7 years, with students headed to the academic job market lean on the longer end, say 5-6.
 However, your work ethic, project(s), and more can shorten or lengthen this.
-
-

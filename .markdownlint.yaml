@@ -1,0 +1,7 @@
+default: false
+
+# Rules that affect rendering
+MD001: true   # heading increment
+MD032: true   # blank lines around lists
+MD012: true   # no multiple blank lines
+MD009: true   # no trailing spaces

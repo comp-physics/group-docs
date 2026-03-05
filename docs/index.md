@@ -13,7 +13,7 @@ Welcome! This is the documentation for the Computational Physics research group 
 [When and where of working](group-syllabus/when-where-working.md) ·
 [Going to conferences](group-syllabus/going-to-conferences.md) ·
 [Giving talks](group-syllabus/giving-talks.md) ·
-[Challenges](group-syllabus/challenges.md)
+[Challenges](group-syllabus/challenges.md) · [FAQ](group-syllabus/faq.md)
 
 **Papers and Writing** —
 [Academic writing](group-syllabus/improving-your-writing.md) ·

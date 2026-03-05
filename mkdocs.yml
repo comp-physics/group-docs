@@ -41,6 +41,7 @@ markdown_extensions:
       generic: true
 
 nav:
+  - Group Website: https://comp-physics.group
   - Home: index.md
   - Syllabus:
     - Welcome: group-syllabus/intro-to-group.md

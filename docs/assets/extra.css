@@ -26,6 +26,7 @@
 
 .md-header__topic {
   font-weight: 700;
+  font-size: 1.5rem;
 }
 
 a {
@@ -55,11 +56,67 @@ a:hover {
   color: #d4b07a;
 }
 
-.md-header__button.md-logo img {
-  height: 2.5rem;
-  width: auto;
+.md-header__button.md-logo {
+  display: none;
 }
 
 .md-footer {
   display: none;
+}
+
+/* Top navbar matching comp-physics.group Bootstrap navbar */
+.md-banner {
+  background-color: #212529 !important;
+  padding: 0 1rem;
+}
+
+.cp-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 3.5rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.cp-navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #fff !important;
+  text-decoration: none !important;
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+.cp-navbar-brand:hover {
+  color: rgba(255,255,255,0.75) !important;
+}
+
+.cp-navbar-brand img {
+  border-radius: 3px;
+}
+
+.cp-navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.cp-navbar-links a {
+  color: #c0995e !important;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.65rem;
+  border-radius: 4px;
+  transition: color 0.15s;
+}
+
+.cp-navbar-links a:hover {
+  color: #d4b07a !important;
+}
+
+.cp-navbar-active {
+  color: #d4b07a !important;
 }

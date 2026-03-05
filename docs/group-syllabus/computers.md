@@ -72,7 +72,7 @@
                 * daas <- open this one
             * Can complete training and do other things here, like look at your WebCARS to get `WC_ID` (which you need to submit jobs)
         * Onto a computer remotely
-            * https://hpc.sandia.gov/access/ssh/
+            * https://hpc.sandia.gov/
             * Can do the below with DaaS (using my example username, `[usrname]`)
                 * `ssh [usrname]@srngate.sandia.gov`
                 * Passcode: `[PIN] + [yubikey one time pw]`

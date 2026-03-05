@@ -1,6 +1,6 @@
 # Computational Physics @ GT Group Documentation
 
-* [Welcome to the group!](group-syllabus/intro-to-group.md) 
+* [Welcome to the group!](group-syllabus/intro-to-group.md)
 
 ## Syllabus
 

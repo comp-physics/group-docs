@@ -1,6 +1,6 @@
 site_name: "Computational Physics @ GT: Group Documentation"
-site_url: https://group-docs.readthedocs.io
-repo_url: https://github.com/sbryngelson/group-docs
+site_url: https://comp-physics.group/group-docs/
+repo_url: https://github.com/comp-physics/group-docs
 edit_uri: edit/master/docs/
 docs_dir: docs
 

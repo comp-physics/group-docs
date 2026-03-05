@@ -2,7 +2,7 @@
 
 **Companion documents: [Formatting your work](formatting.md)**
 
-See [here](https://github.com/sbryngelson/group-docs/tree/master/templates/paper/figures) for examples.
+See [here](https://github.com/comp-physics/group-docs/tree/master/templates/paper/figures) for examples.
 
 ## This seems like a lot of work. Why am I doing this?
 
@@ -22,7 +22,7 @@ These are TeX packages that provide a natural way to achieve consistency.
 There is a steep learning curve, though the trade-off is worth it compared to their competitors.
 The TeX stack exchange website regularly answers questions about these packages.
 A web search of almost any basic TikZ/PGF question will quickly flag an answer.
-I can provide example `.tex` files for many things (like [here](https://github.com/sbryngelson/group-docs/tree/master/templates/paper/figures)), and you can gather examples from your colleagues as well as online (like [here](https://github.com/comp-physics/tikz-examples) and [here](https://github.com/comp-physics/TikZ-examples-2)).
+I can provide example `.tex` files for many things (like [here](https://github.com/comp-physics/group-docs/tree/master/templates/paper/figures)), and you can gather examples from your colleagues as well as online (like [here](https://github.com/comp-physics/tikz-examples) and [here](https://github.com/comp-physics/TikZ-examples-2)).
 
 Some other nice features:
 
@@ -33,7 +33,7 @@ Some other nice features:
 
 Compile all your figures as standalone PDF documents.
 This is handy for your paper and for using them in presentations and other media.
-With TikZ, this is quite easy, [here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/figures/slices.tex) is an example.
+With TikZ, this is quite easy, [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/figures/slices.tex) is an example.
 Here is a template of sorts:
 ```tex
 \input{tikz_preamble}
@@ -47,7 +47,7 @@ Here is a template of sorts:
 
 \end{document}
 ```
-where I have a separate file called `tikz_preamble.tex` that you can find [here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
+where I have a separate file called `tikz_preamble.tex` that you can find [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/figures/tikz_preamble.tex) that holds the relevant packages I need and defined the document style.
 
 Use Tikz option:
 
@@ -91,7 +91,7 @@ Place your sub-figure labels (e.g., (a) and (b)) in a place that is not too obtr
 * If you need sub-captions, you should put the sub-figure labels below the center of the figure.
 
 Do not put the sub-figure captions directly below the sub-figures if you have no "real" caption (e.g., you are just labeling them (a) or (b), etc.); in this case, instead put them in one of the corners per above.
-See the examples [here](https://github.com/sbryngelson/group-docs/tree/master/templates/paper/figures) for reference.
+See the examples [here](https://github.com/comp-physics/group-docs/tree/master/templates/paper/figures) for reference.
 
 Place a space between your sub-figure labels (e.g., (a, b) instead of (a,b)).
 

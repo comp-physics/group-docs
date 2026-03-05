@@ -33,10 +33,10 @@ You can connect them by placing `\input{preamble.tex}` at the top of your main t
 clause.
 
 In the preamble file, you should include some packages.
-[Here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/preamble.tex) are some examples.
+[Here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/preamble.tex) are some examples.
 Please look them up to see what they do.
 
-For `elsarticle` class files (mine is included [here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
+For `elsarticle` class files (mine is included [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/elsarticle.cls)), which I recommend you use, you need to organize the hyper-reference coloring a bit differently, which in that example document you will see in the preamble as well the top of `main.tex`
 
 ```tex
 \documentclass[11pt,sort&compress]{elsarticle}
@@ -79,7 +79,7 @@ I usually put all of these in a single file that is invoked in the LaTeX preambl
 ```tex
 \input{mathsymbols.tex}
 ```
-and an example such file is in [`templates/paper/mathsymbols.tex`](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/mathsymbols.tex) in this repository.
+and an example such file is in [`templates/paper/mathsymbols.tex`](https://github.com/comp-physics/group-docs/blob/master/templates/paper/mathsymbols.tex) in this repository.
 
 Some notation rules you should follow
 
@@ -150,7 +150,7 @@ Some examples and common errors:
 ## Referencing your bibliography
 
 Use `natbib` via `\usepackage{natbib}` (it is automatically loaded when one uses the `elsarticle` class).
-I recommend the bibliography style file in the template at [`templates/paper/bibsty.bst`](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/bibsty.bst).
+I recommend the bibliography style file in the template at [`templates/paper/bibsty.bst`](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibsty.bst).
 This is automatically handled if you use the paper template in this repository.
 This way, you will have access to text and parenthetical citations, which render as:
 > One can partially address this problem by working in Fourier space [1] or fitting a parametric model to approximate the eddy diffusivity operator [21, 23]. However, the former requires spatial homogeneity, and the latter's accuracy depends on the parametric model's quality. Liu et al. [17] introduces an improved model that uses the nonlocal eddy diffusivity operator's moments to approximate the operator.
@@ -188,7 +188,7 @@ We generally want our references at the end of sentences unless they are part of
 * Use `bibtool` to remove unused entries from your bibliography (`.bib`) file
     * Remove all unused bibliography entries from your `.bib` file. To do this,
         * Make sure you have `bibtool` installed your your system
-        * Copy a `bibtool.config` file to your document path, mine is located [here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/bibtool.config)
+        * Copy a `bibtool.config` file to your document path, mine is located [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibtool.config)
         * Compile your document (I prefer `latexmk` for this, but a combination of `pdflatex` and `bibtex` also works).
         * Use the command `bibtool -r bibtool.config -x main.aux > test.bib`
         * Now you have a file `test.bib` that contains only the bibliography entries in your document
@@ -200,7 +200,7 @@ We generally want our references at the end of sentences unless they are part of
     * It does this on `test.bib` in the above call. You will want to do it on whatever the `bibtool` output file is.
 
 * Bibliography style file (`.bst`)
-    * Unless the journal or conference you submit to insists otherwise, use the style file [here](https://github.com/sbryngelson/group-docs/blob/master/templates/paper/bibsty.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (invoked via `\citet{}` as above).
+    * Unless the journal or conference you submit to insists otherwise, use the style file [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibsty.bst). This style file includes the relevant information you want your entries to include (like title), but ignores others (like month of publication). It also supports author-year citations (invoked via `\citet{}` as above).
 
 ## Colors
 

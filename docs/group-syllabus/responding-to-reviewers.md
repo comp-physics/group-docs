@@ -50,7 +50,7 @@ When you create a response document, make sure to
 
 There are examples in this repository, including
 
-* A Revision template [in this directory](https://github.com/sbryngelson/group-docs/tree/master/templates/paper_rebuttal)
+* A Revision template [in this directory](https://github.com/comp-physics/group-docs/tree/master/templates/paper_rebuttal)
 
 * In the same place, a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted (`main.tex`) and revised (`main_rev.tex`) manuscript files in the form of a new PDF file called `diff.pdf`. This shows the reviewer explicitly all the changes you made to improve the paper (on top of the revisions in the response to the reviewers document).
 

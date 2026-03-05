@@ -27,10 +27,10 @@ Welcome! This is the documentation for the Computational Physics research group 
 [Hardware](group-syllabus/hardware.md)
 
 **Templates** —
-[Papers](https://github.com/sbryngelson/group-docs/tree/master/templates/paper) ·
-[Paper reviews](https://github.com/sbryngelson/group-docs/tree/master/templates/paper_rebuttal) ·
-[Figures](https://github.com/sbryngelson/group-docs/tree/master/templates/paper/figures) ·
-[Talks](https://github.com/sbryngelson/group-docs/tree/master/templates/talks)
+[Papers](https://github.com/comp-physics/group-docs/tree/master/templates/paper) ·
+[Paper reviews](https://github.com/comp-physics/group-docs/tree/master/templates/paper_rebuttal) ·
+[Figures](https://github.com/comp-physics/group-docs/tree/master/templates/paper/figures) ·
+[Talks](https://github.com/comp-physics/group-docs/tree/master/templates/talks)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Documentation for the Computational Physics research group at Georgia Tech.
 
-**[Read the docs here](https://github.com/sbryngelson/group-docs)**
+**[Read the docs here](https://comp-physics.group/group-docs/)**
 
 ## License
 

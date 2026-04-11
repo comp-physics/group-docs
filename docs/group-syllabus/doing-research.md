@@ -56,7 +56,7 @@ This is important for your sense of progress, as the more challenging work might
 This is also important to get exposure for you and your ideas in wider venues.
 
 3. Concurrently, try to be a supporting author on at least one other project.
-This isn't your core work; it's someone else-led.
+This isn't your core work; it's led by someone else.
 It should take less than 1/2-1/3 of a day of your time per week.
 But you have something to offer and will be listed in a supporting author position.
 Also, of the lower-risk, lower-reward variety.
@@ -106,7 +106,7 @@ For example, the authors' methods, the way they asked their research questions, 
 * When you read a good paper in your research area, ask yourself what should come next.
 What assumptions do they make?
 What would make this even better?
-What are the authors missing that is not an immediate "future work"  for that scholar's arc?
+What are the authors missing that is not an immediate "future work" for that scholar's arc?
 Identifying papers like that can impact your research directions over time.
 
 * Many phenomena we see online and around technology are not, strictly speaking, new.
@@ -134,7 +134,7 @@ If the student is not excited and motivated about a research direction, the outc
 Similarly, students can pursue a project that I am less interested in, making me less engaged and less helpful as an advisor.
 The process of coming up with ideas, research questions, and project decisions thus naturally gravitates towards mutually interesting directions that overlap with existing or potential funding.
 
-At the same time, "interest splits" happen, and students often pursue questions and directions.
+At the same time, "interest splits" happen, and students often pursue questions and directions independently.
 If there's no overlap, one option is to switch advisors.
 I have had students leave me to work with other advisors as it became clear that their pursuit and intellectual passion do not overlap with mine.
 This is normal and healthy.

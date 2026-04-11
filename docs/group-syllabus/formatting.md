@@ -19,7 +19,7 @@ From [here](https://www.annaclemens.com/blog/figure-graph-data-vizualisation-plo
 
 * Use LaTeX for all of your documents.
 * Make sure your documents _do not_ compile with errors, especially if you are using Overleaf!
-* If you have warnings, understand where they warnings come from. They may be signaling something important!
+* If you have warnings, understand where those warnings come from. They may be signaling something important!
 * On my local computer, I like using `latexmk` for compilation.
 * __Put each sentence on one line of source `.tex` code__
 
@@ -136,9 +136,10 @@ Some examples and common errors:
     * Not like this: _A Gaussian Moment Method and its Augmentation via LSTM Recurrent Neural Networks for the Statistics of Cavitating Bubble Populations_
     * And definitely not like this: _A gaussian moment method and its augmentation via lstm recurrent neural networks for the statistics of cavitating bubble populations_
     * Accomplish this via the `.bib` entry, like this
-    ```tex
-    title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
-    ```
+
+        ```tex
+        title = {A {G}aussian moment method and its augmentation via {LSTM} recurrent neural networks for the statistics of cavitating bubble populations},
+        ```
 
 * Book titles are usually capitalized as you enter them verbatim (capitalization and all) in the `.bib` file. So, be consistent when citing book titles!
     * Like this:
@@ -168,11 +169,14 @@ __Note__ the use of `\citep{ref}` and `\citet{ref}` here.
 Text `\citet{ref}` instances can be used as nouns but parenthetical references _cannot_.
 
 * This is OK (via `\citet{ref}`):
+
     > So and so [1] did this awesome thing.
+
 * This is not (via `\citep{ref}`):
+
     > [1] did this awesome thing.
 
-Always prevent line-breaks via tides `~` between a parenthetical reference and the text before it.
+Always prevent line-breaks via tildes `~` between a parenthetical reference and the text before it.
 For example:
 
 * This is correct: `The algorithm is fast, but not as fast as possible~\citep{ref}.`
@@ -181,17 +185,22 @@ For example:
 We generally want our references at the end of sentences unless they are part of a long list.
 
 * Incorrect:
+
     > The LBM method [1] is not as accurate as the finite volume method [2].
+
 * Correct:
-    > The LBM method is described in So and So [1]. However, is not as accurate as the finite volume method [2].
+
+    > The LBM method is described in So and So [1]. However, it is not as accurate as the finite volume method [2].
+
 * And this is also acceptable
+
     > Cavitation is seen in many engineering applications, including submarines [1], pumps [2], and medical devices [3].
 
 ## Creating your bibliography
 
 * Use `bibtool` to remove unused entries from your bibliography (`.bib`) file
     * Remove all unused bibliography entries from your `.bib` file. To do this,
-        * Make sure you have `bibtool` installed your your system
+        * Make sure you have `bibtool` installed on your system
         * Copy a `bibtool.config` file to your document path, mine is located [here](https://github.com/comp-physics/group-docs/blob/master/templates/paper/bibtool.config)
         * Compile your document (I prefer `latexmk` for this, but a combination of `pdflatex` and `bibtex` also works).
         * Use the command `bibtool -r bibtool.config -x main.aux > test.bib`
@@ -254,7 +263,7 @@ First, labeling them appropriately as
     \label{e:lineareqn}
 \end{gather}
 ```
-and then reference then via `cleveref`! As `\cref{e:lineareqn}`.
+and then reference them via `cleveref`! As `\cref{e:lineareqn}`.
 
 Treat your equations as nouns, and never use the abbreviation "eqn." before it.
 

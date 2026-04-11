@@ -11,7 +11,7 @@ If your question isn't answered here, please reach out to Spencer or other membe
 Our group focuses on developing computational models and numerical methods for physics problems.
 We accompany our methods with algorithms crafted to make efficient use of the latest exascale machines and computer architectures, including AMD GPUs, Arm/RISC CPUs, and quantum computers.
 We develop open-source software for these methods that scales to the world's largest supercomputers.
-Our work pushes applications forward in areas jet and rocket design, defense broadly, medical therapies and physiology, and the energy sector.
+Our work pushes applications forward in areas of jet and rocket design, defense broadly, medical therapies and physiology, and the energy sector.
 
 ### How do I join the group?
 
@@ -32,8 +32,8 @@ It ebbs and flows, depending on the interest of the students.
 
 ### What software/programming languages should I know?
 
-Proficiency in one high-level and one-level language is important.
-We often use Fortran (free-form) as a low-level language, but new projects may be more ammenable to C/C++.
+Proficiency in one high-level and one low-level language is important.
+We often use Fortran (free-form) as a low-level language, but new projects may be more amenable to C/C++.
 High-level languages are mostly up to you, though I prefer you use Python to maximize the reach of your software.
 Our group develops widely used open-source software like MFC, an exascale multi-phase flow solver.
 
@@ -82,6 +82,6 @@ See [When and where of working](when-where-working.md) for more details.
 
 Yes, taking breaks is important for maintaining productivity and mental health (at least for most folks).
 Typically, students take 2-3 weeks of vacation per year, plus university holidays.
-This is flexible, so just talk to Spencer and coordinate with Spencer in advance, especially for longer absences.
+This is flexible, so just talk to Spencer and coordinate in advance, especially for longer absences.
 You may find yourself taking semi-vacations, where you aren't in town but find yourself doing some side-work for fun anyway.
 This is up to you.

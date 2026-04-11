@@ -48,7 +48,7 @@ I cannot answer this for you, but graduating with a Ph.D. in Computer Science, E
 The usual "triangle" argument goes as
   * Industry: Most pay, least independence
   * National laboratories: Medium pay, medium independence
-  * Academia: Least pay, most independence. On a personal note, I heavily value the latter, and its often easier to hop from academia to industry than vice-versa. So, here I am.
+  * Academia: Least pay, most independence. On a personal note, I heavily value the latter, and it's often easier to hop from academia to industry than vice-versa. So, here I am.
 
 The Ph.D. takes _very roughly_ 4-7 years, with students headed to the academic job market lean on the longer end, say 5-6.
 However, your work ethic, project(s), and more can shorten or lengthen this.

@@ -12,7 +12,7 @@ You also do not pay to attend conferences, this is covered via research funds.
 It is my role to make sure that you are supported by an RA, TA, or fellowship for as much of your Ph.D. as possible.
 Your Ph.D. program will require some (typically two) semesters of TA during your Ph.D., though you could be asked to do more of them.
 
-RAs generally means some sort of grant or research award supports your work.
+RAs generally mean some sort of grant or research award supports your work.
 Again, it is my role to raise this money to support your research, or to fit your research into funding that I already have.
 It is also possible that later in the Ph.D. I will ask you (or you will initiate) for your help in writing a grant proposal in your area.
 This is good practice for you as a future scientist.

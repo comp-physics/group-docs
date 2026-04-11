@@ -53,7 +53,7 @@ If you feel you suffered an injustice, I encourage you to speak to me or other t
 
 I am a fan of co-advising Ph.D. students, and many of my students are, or have, been co-advised.
 As long as the "trio" dynamics are healthy, including the relationship between the two advisors, this is a good idea: it gives you another person to advise you and be invested in your future; it broadens the ideas and knowledge you are exposed to.
-There are potential drawbacks, some overhead for you (scheduling, more weekly and lab meetings), and potential friction when advisors disagree.
+There are potential drawbacks: some overhead for you (scheduling, more weekly and lab meetings) and potential friction when advisors disagree.
 But overall, if there are two faculty members whose work, vision, and interests align with yours, you should explore co-advising.
 
 ## Time with me and Others

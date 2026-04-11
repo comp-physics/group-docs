@@ -85,7 +85,7 @@ Spencer is rather busy and does not have time to help you with your slides in th
 3. Prepare a nice visual slideshow/poster that keeps your audience engaged and interested in your work.
 Your goal is to make everyone read your papers and consider using your methods.
 Practice your presentation multiple times; I recommend at least 10 practice talks with yourself.
-__Don't wait until the last minute to do this:__ The conference is a time for listening to other people's presentations and making connections, not for practicing your  presentation or doing homework.
+__Don't wait until the last minute to do this:__ The conference is a time for listening to other people's presentations and making connections, not for practicing your presentation or doing homework.
 
 4. Before you go to the conference, check the session schedule and decide which ones you want to attend.
 Look for interesting papers and authors.

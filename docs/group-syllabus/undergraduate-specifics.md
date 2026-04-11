@@ -46,7 +46,7 @@ Following the above:
 > Conducting scientifically impactful research takes time.
 
 I expect undergraduate researchers in the group to take fewer classes than they would otherwise.
-This amounts to, at most, 4 serious classes you are conducting research per term.
+This amounts to, at most, 4 serious classes per term while conducting research.
 Taking fewer classes might mean graduating in 4 years instead of 3 (or something akin to this).
 You must consider this trade-off on your terms, though I'm glad to discuss it with you.
 GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
@@ -54,7 +54,7 @@ GT CS offers an undergraduate thesis option, which meets several degree requirem
 Some commitment topics to consider:
 
 * If you hope to go to a top graduate school (or are considering it), at Georgia Tech or otherwise, completing your degree early is unlikely to help with admission, but completing high-quality research _definitely_ will.
-* If you don't think you do not want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
+* If you don't think you want to go to graduate school, research can still expand industry opportunities. The degree to which it expands those opportunities will depend on the job you hope to obtain. Discuss with Spencer for more details.
 
 ## Outcomes
 

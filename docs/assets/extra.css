@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
 :root {
   --md-primary-fg-color: #262829;
   --md-primary-fg-color--light: #343a40;
@@ -11,11 +13,15 @@
   --md-default-bg-color--light: #282a2a;
   --md-default-bg-color--lighter: #313333;
   --md-default-bg-color--lightest: #3a3c3c;
+  --md-code-bg-color: #1e2b38;
+  --md-code-fg-color: #d0dde8;
 }
 
 .md-header {
-  background-color: #262829;
+  background-color: #242627;
   color: #fff;
+  border-bottom: 1px solid #333637;
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.35);
 }
 
 .md-header a,
@@ -33,11 +39,16 @@ a {
   color: #c0995e;
 }
 
+a:visited {
+  color: #c0995e;
+}
+
 a:hover {
   color: #d4b07a;
 }
 
 .md-nav__link--active,
+.md-nav__link:visited,
 .md-nav__link:hover {
   color: #c0995e;
 }
@@ -52,7 +63,22 @@ a:hover {
   color: #c0995e;
 }
 
+.md-typeset a:visited {
+  color: #c0995e;
+}
+
 .md-typeset a:hover {
+  color: #d4b07a;
+}
+
+.md-typeset a code,
+.md-typeset a:visited code {
+  color: #c0995e;
+  background-color: transparent;
+  border-color: rgba(192, 153, 94, 0.3);
+}
+
+.md-typeset a:hover code {
   color: #d4b07a;
 }
 
@@ -64,58 +90,106 @@ a:hover {
   display: none;
 }
 
-/* Top navbar matching comp-physics.group Bootstrap navbar */
+/* Top navbar — mirrors comp-physics.group Bootstrap navbar exactly */
 .md-banner {
-  background-color: #262829 !important;
-  padding: 0 1rem;
+  background-color: #242627 !important;
+  border-bottom: 1px solid #333637;
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.35);
+  padding: 0;
 }
 
+/* Material wraps announce content in .md-banner__inner.md-grid.md-typeset —
+   bust out of its max-width and padding so our navbar controls its own layout.
+   Also reset font-size to 16px so rem units inside resolve correctly. */
+.md-banner__inner {
+  max-width: 100% !important;
+  padding: 0 1rem !important;
+  margin: 0 !important;
+  font-size: 16px !important;
+}
+
+/* max-width container centred inside the full-width banner, brand left then links */
 .cp-navbar {
   display: flex;
   align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 3.5rem;
-  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0.55rem 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .cp-navbar-brand {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  color: #fff !important;
+  padding: 0.25rem 0;
+  margin-right: 1.25rem;
+  color: #cec6bc !important;
   text-decoration: none !important;
-  font-size: 1rem;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 17.6px !important;
+  font-weight: 600;
   white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
+  flex-shrink: 0;
+  transition: color 0.18s ease;
 }
 
 .cp-navbar-brand:hover {
-  color: rgba(255,255,255,0.75) !important;
+  color: #fff !important;
+  text-decoration: none !important;
 }
 
 .cp-navbar-brand img {
+  margin-right: 5px;
   border-radius: 3px;
 }
 
 .cp-navbar-links {
   display: flex;
   align-items: center;
-  gap: 0.25rem;
 }
 
 .cp-navbar-links a {
   color: #c0995e !important;
   text-decoration: none !important;
-  font-size: 1rem;
-  padding: 0.4rem 0.75rem;
-  border-radius: 4px;
-  transition: color 0.15s;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16.8px !important;
+  font-weight: 500;
+  padding: 0.4rem 0.85rem;
+  white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
+  transition: color 0.18s ease;
+  position: relative;
 }
 
-.cp-navbar-links a:hover {
-  color: #d4b07a !important;
+.cp-navbar-links a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0.85rem;
+  right: 0.85rem;
+  height: 2px;
+  background: #c0995e;
+  transform: scaleX(0);
+  transition: transform 0.2s ease;
+  border-radius: 1px;
+}
+
+.cp-navbar-links a:hover,
+.cp-navbar-links a:focus {
+  color: #d4b07c !important;
+  text-decoration: none !important;
+}
+
+.cp-navbar-links a:hover::after,
+.cp-navbar-links a:focus::after,
+.cp-navbar-links a.cp-navbar-active::after {
+  transform: scaleX(1);
 }
 
 .cp-navbar-active {
-  color: #d4b07a !important;
+  color: #d4b07c !important;
 }

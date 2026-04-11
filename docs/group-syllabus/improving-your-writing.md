@@ -58,7 +58,7 @@ Such mistakes are a quick way for an editor or reviewer to perceive your work as
 
 One should keep styles consistent within a manuscript.
 You might be forgiven for even poor style choices if you are consistent.
-Please look at the [these](formatting.md) documents for more.
+Please look at [these](formatting.md) documents for more.
 Note that this consistency extends to the level of detail throughout the paper.
 A detailed introduction is best matched with a results section that achieves a similar level of detail.
 
@@ -105,7 +105,7 @@ You can consult replacement lists for common mistakes:
 These lists help me realize, "Hey, I write wordy phrases like this all the time!"
 Use the lists to learn the general ways one ends up with low information-density writing.
 You can then identify similar phrases in your writing.
-Often, eliminating them is relatively easy, but noticing them is (at first).
+Often, eliminating them is relatively easy, but noticing them is hard (at first).
 
 Conciseness can be viewed in a broader sense.
 For example, you should structure your paragraphs such that you aren't repeating information.
@@ -148,7 +148,7 @@ See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method
 * Avoid redundancy. For example, use "investigate" instead of "conduct an investigation of".
 * Use active voice. Although not always possible, most text should be in an active voice.
 * Avoid inappropriate language. Keep words like "really, actually, pretty much" for social networks.
-* Avoid rare words and latinisms. Non credo all readers know the meaning.
+* Avoid rare words and latinisms. Not all readers know the meaning.
 * Keep abbreviations to a minimum. Abbreviations are hard to read, consider just spelling it out.
 * Beware of zombie nouns. Utilization of nominalization is the causation of distraction.
 
@@ -174,7 +174,7 @@ See, for example, the first figure in my paper, "Fast Macroscopic Forcing Method
     * Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
     * Break any of these rules sooner than say anything outright barbarous.
 
-* Kill your darlings. Sometimes, you'll write a so elegant and well-crafted phrase that it jars with the rest of your writing and pulls the reader out of the flow. So cut it. As Stephen King once put it: _'Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.'_
+* Kill your darlings. Sometimes, you'll write such an elegant and well-crafted phrase that it jars with the rest of your writing and pulls the reader out of the flow. So cut it. As Stephen King once put it: _'Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.'_
 
 * If you want to describe a figure/table in the results text, it can help to imagine you're giving a seminar. What features would you draw your audience's attention to? What would you tell people about during coffee break?
 
@@ -228,5 +228,5 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Writing a science paper some dos and don'ts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
 * [Experimental Biosciences writing science](http://www.ruf.rice.edu/~bioslabs/tools/report/reportform.html)
 * [11 steps to structuring a science paper editors will take seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)
-* [Strunk and Write](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars.
+* [Strunk and White](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X) is a classical book that describes common writing gaffs and style particulars.
 * [Move over Strunk and White: My all-time favorite books on writing](https://clauswilke.com/blog/2017/11/12/move-over-strunk-and-white/)

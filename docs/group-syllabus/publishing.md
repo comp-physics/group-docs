@@ -34,12 +34,12 @@ This seemingly draconian policy is based on the fact that carefully reviewing yo
 This is OK.
 It is an important part of my job.
 Still, it takes me about 6 hours to complete one set of whole-paper revisions/suggestions on a 10-page manuscript, for example.
-For your first paper (let's pretend it is 10 pages long) will go back and forth with me about 10 to 30 times.
+Your first paper (let's pretend it is 10 pages long) will go back and forth with me about 10 to 30 times.
 This is normal in academia and will decrease as the revisions for that document become more minor and sparse, and your first drafts become closer to publishable.
 
 __Missing deadlines:__
 When you say you will complete something I request, e.g., "I will send you the slides on Friday," I expect them on Friday.
-Sometimes, the day you send me something is very important, including current or future grants/papers, etc. could hinge on it.
+Sometimes, the day you send me something is very important; current or future grants/papers, etc. could hinge on it.
 It will often appear unclear to you if what I asked for is critically important or not a big deal.
 That said, we all regularly underestimate how long something will take, and being perfectly adjusted to how long it will take you to do something is impossible.
 
@@ -67,7 +67,7 @@ We'll plan the paper together, thinking about its contributions, how to present 
 I typically ask my PhD students to write the first draft of each section in the paper independently.
 
 For a first- or second-year student, the writing process might involve the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students and, ultimately, extensive editing and rewriting by me.
-For a 5th-year student, one is likely (after discussing their thoughts on its direction and narrative) are likely to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
+For a 5th-year student, one is likely (after discussing their thoughts on its direction and narrative) to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
 
 __Important note:__
 Use Overleaf when writing your journal and conference papers so we can collaborate readily.
@@ -85,7 +85,7 @@ Authorship order can become important, and the default expectation is that you w
 However, there are often other considerations for authorship order and first-author choice (e.g., an undergraduate who contributed significantly; a Ph.D. student you collaborated with equally) where you may not be a first author even for work that contributes to your Ph.D.
 
 If you feel uncomfortable with authorship or ordering, please raise it with me immediately.
-Once a paper or abstract is accepted, authorship cannot changed.
+Once a paper or abstract is accepted, authorship cannot be changed.
 All authorship concerns should be resolved before submission, preferably even as collaborations are budding.
 
 ## Conference and Other Presentations

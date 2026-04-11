@@ -131,7 +131,7 @@ Common guidelines are
   * A violation would be using such a color scheme for data that varies from 0 to 1
   * In 2D settings, Paraview uses, by default, a lighting scheme that modifies the colors, including making white appear sand colored. Alleviate this by going to `View -> Light inspector` and deselect `Light Kit`.
   * Adjust the RGB values of the color bar to let the unique/special value be exactly white if the data is centered at the unique/special value.
-* Using a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
+* Use a monochromatic color scheme (e.g., from white to black) for data that vary uniformly as above, say from 0 to 1.
 * Use a tri-color scheme that centers the color at black or white, e.g., the Paraview default red-white-blue for nominally centered data at a special or reference value, like 0 or 1.
 
 ## Coordinate direction arrow triad.
@@ -205,7 +205,7 @@ __An exception__ to the above is if the figure contains no text or equations, li
 
 **Rule:** Use vector graphic formats (PDF, please) for all plots that involve text or equations.
 
-**Rule:** Use the same color palette for all of your figures (not including flow visualizations) and your main text (see [formatting](formatting.md)]).
+**Rule:** Use the same color palette for all of your figures (not including flow visualizations) and your main text (see [formatting](formatting.md)).
 
 An excerpt from [Formatting your work](formatting.md).
 

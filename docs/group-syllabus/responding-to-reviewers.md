@@ -31,7 +31,7 @@ Whether or not you should do this rests on many choices.
 Do you know if the extra work _really_ improves the paper or makes your conclusions more salient or obvious?
 If it doesn't, you should avoid doing this extra work if it (a) doesn't meaningfully improve the paper and thus (b) wastes your time and (c) the reader's time.
 Ultimately, this is a rather sensitive topic, and one has to be careful with wording.
-I will help you decide what should and shouldn't do.
+I will help you decide what you should and shouldn't do.
 Regardless, you should be grateful for the reviewer's contributions towards a better manuscript.
 
 ## The details of a response document
@@ -52,6 +52,6 @@ There are examples in this repository, including
 
 * A Revision template [in this directory](https://github.com/comp-physics/group-docs/tree/master/templates/paper_rebuttal)
 
-* In the same place, a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted (`main.tex`) and revised (`main_rev.tex`) manuscript files in the form of a new PDF file called `diff.pdf`. This shows the reviewer explicitly all the changes you made to improve the paper (on top of the revisions in the response to the reviewers document).
+* In the same place is a `Makefile` that uses the `latexdiff` tool to create a `diff` between the submitted (`main.tex`) and revised (`main_rev.tex`) manuscript files in the form of a new PDF file called `diff.pdf`. This shows the reviewer explicitly all the changes you made to improve the paper (on top of the revisions in the response to the reviewers document).
 
 * Example diffs and responses to reviewers for some of my papers are located [here](https://gatech.app.box.com/folder/245228437856)

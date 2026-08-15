@@ -1,6 +1,6 @@
 # Computational Physics @ GT: Group Documentation
 
-Welcome! This is the documentation for the Computational Physics research group at Georgia Tech.
+Welcome! This is the documentation for the Computational Physics research group.
 
 **Getting started?** Head to [Welcome to the group!](group-syllabus/intro-to-group.md)
 

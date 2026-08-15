@@ -32,7 +32,7 @@ They do not have a talk to give or an abstract or poster to present.
 This can be a nice learning experience, and I would love to send all students to all conferences (more or less).
 However, this can be extremely expensive (more than you might realize).
 This can also hinder my ability to later send you to more conferences where you _will_ have papers to present.
-As a result, I do not support "observation" conference attendance with my own research funds, though sometimes you can win a conference attendance grant (these are conference-specific, and PURA Travel is not sufficient for undergraduate researchers).
+As a result, I do not support "observation" conference attendance with my own research funds, though sometimes you can win a conference attendance grant (these are conference-specific).
 
 ## Registration, flights, and hotels
 
@@ -48,27 +48,6 @@ We know we are attending conferences many months in advance, so there is little 
 * Flights: Book your flights reasonably early-at least one month ahead.
 
 * Per diem: You will be reimbursed for your meals via the per diem rate for the conference location.
-
-## Spend authorization
-
-If you are a graduate student employee (on a GRA: Graduate Research Assistantship), you need a spend authorization to be approved by Georgia Tech before going to a conference.
-To file a spend authorization, go to [Workday](https://wd5.myworkday.com/gatech/d/home.htmld), log in with your GT credentials, and type `Create Spend Authorization` in the search bar at the top of the page.
-This should take you to a web form to fill out.
-
-An example of how to fill this out
-
-* Start Date: A day before you leave for the conference
-* End Date: The day after you return from the conference
-* Description: Travel to attend and give a talk at X conference
-* Business Purpose: Conference/seminar (should autofill)
-
-Click `Add` under `Spend Authorization Lines`
-
-* Expense item: `Miscellaneous - Domestic` or `Miscellaneous - International` (depending on if international or not)
-* Total amount: about 20% more than your actual planned expenses
-* Grant: I will give you a number to copy-paste into here, then link 'Enter,' and it should auto-populate most other fields.
-
-That's it! Ask your colleagues if you have questions, and ask me if they don't know the answer.
 
 ## Actually going to the conference
 

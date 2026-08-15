@@ -32,7 +32,7 @@ They do not have a talk to give or an abstract or poster to present.
 This can be a nice learning experience, and I would love to send all students to all conferences (more or less).
 However, this can be extremely expensive (more than you might realize).
 This can also hinder my ability to later send you to more conferences where you _will_ have papers to present.
-As a result, I do not support "observation" conference attendance with my own research funds, though sometimes you can win a conference attendance grant (these are conference-specific, and PURA Travel is not sufficient for undergraduate researchers).
+As a result, I do not support "observation" conference attendance with my own research funds, though sometimes you can win a conference attendance grant (these are conference-specific).
 
 ## Registration, flights, and hotels
 

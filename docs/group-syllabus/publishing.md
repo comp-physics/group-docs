@@ -74,7 +74,7 @@ Use Overleaf when writing your journal and conference papers so we can collabora
 Overleaf has a feature that allows you to hook a local copy to the Overleaf one via `git` or GitHub.
 I use the raw `git` interface so I can use `vim` for my typing and compiling locally, then pushing changes to the document.
 This is particularly useful for generating the `.pdf` files for independent `tikz`/`pgfplots` figures.
-You get a free Overleaf Pro account with your `gatech.edu` email address.
+You get a free Overleaf Pro account with your `utexas.edu` email address.
 
 ## Co-authorship
 

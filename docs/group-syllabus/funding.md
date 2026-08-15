@@ -4,7 +4,7 @@
 If you are an undergraduate, [click here](undergraduate-specifics.md).
 
 Your Ph.D. comes with guaranteed funding (i.e., stipend, tuition, health insurance) while you are in the program.
-This means you are guaranteed to have a fellowship, Graduate Research Assistantship (RA), or Teaching Assistantship (TA) to support you throughout your time at Georgia Tech.
+This means you are guaranteed to have a fellowship, Graduate Research Assistantship (RA), or Teaching Assistantship (TA) to support you throughout your time here.
 You also do not pay to attend conferences, this is covered via research funds.
 
 ## Research and Teaching Assistantship

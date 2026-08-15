@@ -52,17 +52,17 @@ Two caveats:
 
 ## Work location
 
-We work in CODA, which has an open space layout, and the group's students sit near each other.
-You will have an assigned desk in or near room S1347.
-Our CODA space also has many open rooms, couches, desks, food and coffee options, etc.
+We work in the Oden Institute building, which has an open space layout, and the group's students sit near each other.
+You will have an assigned desk in or near the group area.
+Our space also has many open rooms, couches, desks, food and coffee options, etc.
 Hopefully, this makes it a desirable place to work! (if not, or if something could be improved, please let me know!)
-If you are an undergraduate student without a permanent desk in CODA, I may request one if you spend significant time working on group research.
+If you are an undergraduate student without a permanent desk in our space, I may request one if you spend significant time working on group research.
 As available space grows and wanes, the possibility of permanent desks for undergraduate student researchers may also change.
 Still, please do ask if you would like to spend significant time researching from our group area!
-Even if you don't have a desk, feel free to use the CODA 13th-floor space regularly.
+Even if you don't have a desk, feel free to use the Oden Institute common spaces regularly.
 I find it quite nice, personally!
 
-I spend most of my time in my office, S1313, near the group desks.
+I spend most of my time in my office, near the group desks.
 I expect most students to work from their desks regularly, not to say "most of the time," but perhaps a substantial portion of their working hours each week.
 Most student researchers come in at least 3 days a week.
 

@@ -56,7 +56,7 @@ Of course, I understand research has natural ebbs and flows.
 
 ### What computing resources are available?
 
-Our group has access to various computing resources, like Georgia Tech's PACE cluster and external supercomputing facilities.
+Our group has access to various computing resources, like campus clusters and external supercomputing facilities.
 See [Available computers](computers.md) for specific information.
 
 ### Is there funding for conferences?

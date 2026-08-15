@@ -11,7 +11,7 @@ It is possible that you will experience some form of chronic anxiety at some poi
 This feeling is common, and many students will experience it at some point or another.
 Don't be alarmed; if you are comfortable with it, come to talk to me (or others) if you feel this way.
 
-The environment in academia, including at Georgia Tech, _will not stop you_ from overworking at the cost of your well-being.
+The environment in academia _will not stop you_ from overworking at the cost of your well-being.
 Quite the opposite, you will often feel like academic work culture encourages working evenings and weekends, and many do (I do).
 However, _overworking_ is neither healthy nor productive in the long run as an undergraduate or Ph.D. researcher.
 Note that the specific definition, in terms of say, hours worked, will vary person-to-person, and can change as your life otherwise changes in various ways.

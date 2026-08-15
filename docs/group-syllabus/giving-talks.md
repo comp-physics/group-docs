@@ -8,7 +8,7 @@ Giving a talk is presumably associated with some goals, otherwise, why give it?
 You should organize your talk to achieve these goals.
 Here are some examples of things you might want people to think after your talk:
 
-* I saw a nice talk about X from this person Y at Georgia Tech. We should look more into what they're up to (or talk to them after the talk)
+* I saw a nice talk about X from this person Y on campus. We should look more into what they're up to (or talk to them after the talk)
 * This talk was about X and the main results were Y. (You will find many talks do not meet this seemingly low bar)
 * This work was about X and I'm also working in X! They're doing Y and we're doing Z. Maybe we can collaborate and improve X together.
 * This talk was great — who is this person? (then they remember your name and will use it at a later date, perhaps for hiring purposes)

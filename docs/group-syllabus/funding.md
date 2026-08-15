@@ -32,6 +32,6 @@ Not a bad situation to be in.
 
 ## Stipend
 
-Your stipend is determined by the Graduate School at Georgia Tech.
+Your stipend is determined by the Graduate School.
 The Ph.D. stipend is by no means a lot of money, but I believe people have found that it supports a comfortable life that allows you to focus on your studies.
 On a related note, there is an expectation that your Ph.D. will be your full-time work, though internships, particularly during the summer, are possible and sometimes recommended.

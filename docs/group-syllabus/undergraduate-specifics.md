@@ -25,7 +25,6 @@ This comes in the form of funding routed through either
 * A salary award from Georgia Tech, called [PURA Salary](https://urop.gatech.edu/pura-salary).
 
 I generally expect you to apply for PURA Salary before requesting funds from a sponsored grant.
-Some example proposals for the salary award are located [on the Box](https://gatech.app.box.com/folder/227839379429).
 Deadlines are often _early_, about 3.5 months before the semester of the award.
 For example:
 > SPRING 2024 APPLICATION DEADLINE  
@@ -89,8 +88,8 @@ I recommend you talk about this with me so I can give more personalized guidance
 
 ## Office space
 
-You will have a desk to use, including a 32" 4K monitor, keyboard, and mouse, in the group office space on the 13th floor of CODA.
-You are always welcome to use the CODA spaces on the 13th floor or otherwise.
+You will have a desk to use, including a 32" 4K monitor, keyboard, and mouse, in the group office space in the Oden Institute building.
+You are always welcome to use the Oden Institute common spaces.
 These areas seem quite pleasant to me, but you may disagree.
 If you would like somewhere to work but are still looking for a comfortable place, please let me know.
 
@@ -109,5 +108,4 @@ You should apply for [PURA Travel](https://urop.gatech.edu/pura-travel).
 > Applications are to be submitted no earlier than three months before the anticipated conference date and no later than one month before the anticipated conference date.
 
 It is a rather short proposal that is easy to put together.
-Some example successful proposals are [here](https://gatech.app.box.com/folder/227839379429).
-Undergraduates __do not__ need to complete a Georgia Tech Spend Authorization (but graduate students do).
+Undergraduates __do not__ need to complete a spend authorization (but graduate students do).

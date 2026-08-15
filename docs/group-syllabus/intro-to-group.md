@@ -7,19 +7,14 @@ This document has some parts that are specific to Ph.D. students, but much of it
 
 ## Getting started
 
-### CODA
+### Oden Institute building
 
-You will need access to the CODA building.
-GT CSE is on floor 13, and our group is in room S1347.
-We also hold meetings either in my office (S1313) or one of the conference rooms on the 13th floor.
+You will need access to the Oden Institute building, where the group space and my office are.
+We hold meetings either in my office or in one of the nearby conference rooms.
 Request this from Spencer.
-Send him your GTID number. Though times vary, it will likely take a week to "start working."
+Send him your university ID number. Though times vary, it will likely take a week to "start working."
 
 ### Websites, software, course numbers, and such
-
-* Box, located [here](https://gatech.app.box.com/folder/142416587982)
-    * Purpose: Common location to store things, unlimited space. Put your group and 1-1 updates here.
-    * Request access to group Box from Spencer.
 
 * GitHub organization, located [here](https://github.com/comp-physics)
     * Purpose: Your code goes here. Keep it up-to-date via commits. I will likely bug you if you don't update your codes via regular commits as you progress.
@@ -31,7 +26,7 @@ Send him your GTID number. Though times vary, it will likely take a week to "sta
     * Request access from Spencer.
 
 * Group email list
-   * Upon joining, remind Spencer to add you to the `comp-physics@office365.gatech.edu` email list
+   * Upon joining, remind Spencer to add you to the group email list
 
 * Group website, located [here](https://comp-physics.group/team/)
    * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website

@@ -1,3 +1,6 @@
+/* Accent gold #c0995e and light gold #d4b07c match --gold / --gold-light in
+   the website's _sass/SHB_css.scss. Keep the two in sync. */
+
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
 :root {
@@ -44,7 +47,7 @@ a:visited {
 }
 
 a:hover {
-  color: #d4b07a;
+  color: #d4b07c;
 }
 
 .md-nav__link--active,
@@ -68,7 +71,7 @@ a:hover {
 }
 
 .md-typeset a:hover {
-  color: #d4b07a;
+  color: #d4b07c;
 }
 
 .md-typeset a code,
@@ -79,7 +82,7 @@ a:hover {
 }
 
 .md-typeset a:hover code {
-  color: #d4b07a;
+  color: #d4b07c;
 }
 
 .md-header__button.md-logo {

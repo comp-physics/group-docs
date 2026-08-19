@@ -1,4 +1,4 @@
-# Computational Physics @ GT Group Documentation
+# Computational Physics Group Documentation
 
 Documentation for the Computational Physics research group.
 

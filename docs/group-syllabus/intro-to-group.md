@@ -1,5 +1,5 @@
 
-# Welcome to the Computational Physics @ GT CSE research group!
+# Welcome to the Computational Physics research group!
 
 The most important thing about this document is that I/we are _very glad_ to have you.
 You wouldn't be a part of the group otherwise.

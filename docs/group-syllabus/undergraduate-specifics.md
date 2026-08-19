@@ -43,7 +43,7 @@ I expect undergraduate researchers in the group to take fewer classes than they 
 This amounts to, at most, 4 serious classes per term while conducting research.
 Taking fewer classes might mean graduating in 4 years instead of 3 (or something akin to this).
 You must consider this trade-off on your terms, though I'm glad to discuss it with you.
-GT CS offers an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
+Your department may offer an undergraduate thesis option, which meets several degree requirements but is otherwise a small time commitment (and teaches you useful things!).
 
 Some commitment topics to consider:
 
@@ -66,7 +66,7 @@ __It takes about two years to research and write a journal paper, plus additiona
 
 ## Ph.D.?
 
-If you are interested in continuing to a Ph.D. at GT or elsewhere, there are a few extra things worth noting.
+If you are interested in continuing to a Ph.D. here or elsewhere, there are a few extra things worth noting.
 
 * Having a journal or conference paper(s) in top venues will strongly improve your chances of admission.
 * Having _extremely_ strong references, even just one(!) (in this case, likely me), can get you into a top Ph.D. program. I will write a letter faithful to your work with me and the group.

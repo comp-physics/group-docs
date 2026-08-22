@@ -31,26 +31,8 @@ Send him your university ID number. Though times vary, it will likely take a wee
 * Group website, located [here](https://comp-physics.group/team/)
    * Send Spencer a headshot and your LinkedIn, ResearchGate, personal/research website, Google Scholar, etc. for the website
 
-* Taking a "special problems" or research "class" with me? Find the course and section number for me below
-   * For graduate students
-      * CSE
-         * Special Problems - 30901 - CSE 8903 - B13
-         * Teaching Assistantship - 30903 - CSE 8997 - B13
-         * Research Assistantship - 32385 - CSE 8998 - B26
-         * Doctoral Thesis Preparation - 30902 - CSE 8999 - B13
-      * AE
-         * Research Assistantship - 93417 - AE 2698 - BRY
-         * Doctoral Thesis - 93424 - AE 9000 - BRY
-         * Special Problems - 93423 - AE 8900 - BRY
-   * For undergraduate students
-      * CSE
-         * Undergraduate Research Assistantship - 32788 - CS 2698 - B26
-         * Undergraduate Research Assistantship - 32880 - CS 4698 - B26
-         * Undergraduate Research - 34679 - CS 4699 - B26
-     * AE
-         * Undergraduate Research - 93418 - AE 2699 - BRY
-         * Research Assistantship - 93419 - AE 4698 - BRY
-         * Undergraduate Research - 93420 - AE 4699 - BRY
+* Taking a "special problems" or research "class" with me?
+   * Ask Spencer for the current course and section numbers. These differ by program and change from term to term, so registering from a stale list does not work.
 
 ### Computers
 
@@ -62,10 +44,9 @@ We maintain a separate page on this [here](computers.md)
 You will usually have a meeting with Spencer every week (often on Monday).
 These sometimes involve you and another student (2-1 meetings).
 During this meeting, you will present an update on your research.
-We also have an in-person group meeting every week.
 Some guidelines apply:
 
-* Have at least one PowerPoint slide for each update, stating the work you did and plan to do in the next week (see examples in the Box `updates/` directory).
+* Have at least one PowerPoint slide for each update, stating the work you did and plan to do in the next week.
 * If you make little progress, that's OK! In fact, the weeks you make the least progress are the most important for updates since my job (in part) is to help you.
 * Even if you have little progress because you were busy with coursework or on a vacation, please put this on a slide so I can keep track of things.
 
@@ -74,7 +55,7 @@ Some guidelines apply:
 We have a [group GitHub page](https://github.com/comp-physics).
 You should keep the software projects related to your research in repositories on this page.
 We keep all of our software public (open-source), even during development.
-We often use the [MIT license](https://opensource.org/licenses/MIT), which is permissive and copyleft.
+We often use the [MIT license](https://opensource.org/licenses/MIT), which is permissive (not copyleft).
 It also allows us to collaborate freely with corporations, like those at NVIDIA and Google, as well as our academic and lab-based partners.
 
 ## Collaboration

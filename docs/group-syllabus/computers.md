@@ -3,7 +3,7 @@
 ## Georgia Tech
 
 * GT PACE Phoenix
-    * User guide [here](https://docs.pace.gatech.edu/phoenix_cluster/gettingstarted_phnx/)
+    * User guide [here](https://gatech.service-now.com/pace) (the old `docs.pace.gatech.edu` site was retired)
     * Login via `ssh <GTusername>@login-phoenix-rh9.pace.gatech.edu` to get the RHEL9 nodes
     * Purpose: All-purpose campus resource of CPU and GPU jobs with a variety of hardware.
     * "Rules": Use the `embers` queue type to use idle nodes at zero cost.

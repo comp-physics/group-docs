@@ -1,6 +1,6 @@
 # Academic writing
 
-**Companion documents: [Formatting your work](formatting.md), [Improving your writing](improving-your-writing.md), [Making a figure](figures.md), [Responding to reviewers](responding-to-reviewers.md)**
+**Companion documents: [Formatting your work](formatting.md), [Making a figure](figures.md), [Responding to reviewers](responding-to-reviewers.md)**
 
 ## Why should I read this?
 
@@ -112,7 +112,6 @@ For example, you should structure your paragraphs such that you aren't repeating
 Other tips of this type are available at these links:
 
 * [Writing Concisely – The Writing Center • University of North Carolina at Chapel Hill](https://writingcenter.unc.edu/tips-and-tools/conciseness-handout/)
-* [Writing Clearly & Concisely](https://writingcenter.ashford.edu/writing-clearly-concisely)
 * [Tips for being concise in academic writing](https://lauraripperproofreading.com/2018/01/26/how-to-be-concise-tips-for-academic-writing/)
 
 ## What goes where
@@ -218,7 +217,7 @@ Over the years, I found the documents below helpful for improving my writing:
 * [Toward a good scientific writing](https://link.springer.com/article/10.1007/s40071-014-0080-8)
 * [Terry Tao's advice](https://terrytao.wordpress.com/advice-on-writing-papers/)
 * [Improving your scientific writing: a short guide](https://lijunsun.github.io/files/ScientificWritingV39.pdf)
-* [Knuth Mathematical Writing Guide](https://tex.loria.fr/typographie/mathwriting.pdf)
+* [Knuth Mathematical Writing Guide](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html)
 * [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 * [Notes on writing](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)

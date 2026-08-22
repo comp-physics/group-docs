@@ -15,8 +15,8 @@ Our work pushes applications forward in areas of jet and rocket design, defense 
 
 ### How do I join the group?
 
-Visit our website at https://comp-physics.group for information about openings.
-Messages to Spencer that do not follow the website instructions will be ignored.
+Send Spencer an email with your CV, transcripts, your current or intended degree program, and a few sentences on why the group interests you.
+See the [group website](https://comp-physics.group) for what we work on.
 
 ## Research and Collaboration
 
@@ -25,10 +25,6 @@ Messages to Spencer that do not follow the website instructions will be ignored.
 Research projects are typically assigned based on a combination of the group's current research priorities, funding availability, your interests, and your skillset.
 We try to find a good match between these factors, and there's often room for you to propose your own ideas within our broader research themes.
 Our current research includes multiphase flow solvers, stochastic models for cell-scale flow, and information geometric regularization for extreme scale compressible flow simulation.
-
-### How often do we have group meetings?
-
-It ebbs and flows, depending on the interest of the students.
 
 ### What software/programming languages should I know?
 
@@ -41,7 +37,7 @@ Our group develops widely used open-source software like MFC, an exascale multi-
 
 ### What are the publication expectations?
 
-PhD students generally author or co-author 3-5 papers during the program, with 1 or 2 as first author.
+Ph.D. students generally author or co-author 3-5 papers during the program, with 1 or 2 as first author.
 The quality of publications is valued over quantity.
 See the [Publishing](publishing.md) guide for more details.
 Our group regularly publishes in high-impact journals and conferences in computational physics, fluid dynamics, and related fields.

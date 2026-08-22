@@ -1,9 +1,18 @@
 {
+  "_comment": [
+    "aliveStatusCodes deliberately omits 0. A status of 0 is a connection or DNS",
+    "failure, so allowing it made the checker report genuinely dead links as",
+    "healthy -- three of them survived that way, including an NXDOMAIN host.",
+    "",
+    "The cost is that hosts which block datacenter IPs also return 0 from GitHub's",
+    "runners while resolving fine in a browser. Those are listed below; each was",
+    "verified as returning 200 from a normal network. Add to this list only after",
+    "checking the link by hand."
+  ],
   "aliveStatusCodes": [417, 403, 200, 429, 206],
   "ignorePatterns": [
-    {
-      "comment": "ted.com blocks datacenter IPs, so CI runners get a connection failure while the link is fine in a browser. Verified 200 from a normal network.",
-      "pattern": "^https://www\\.ted\\.com/"
-    }
+    { "pattern": "^https?://(www\\.)?ted\\.com/" },
+    { "pattern": "^https?://(www\\.)?catb\\.org/" },
+    { "pattern": "^https?://(www\\.)?annaclemens\\.com/" }
   ]
 }

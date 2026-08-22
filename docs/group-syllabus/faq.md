@@ -13,11 +13,6 @@ We accompany our methods with algorithms crafted to make efficient use of the la
 We develop open-source software for these methods that scales to the world's largest supercomputers.
 Our work pushes applications forward in areas of jet and rocket design, defense broadly, medical therapies and physiology, and the energy sector.
 
-### How do I join the group?
-
-Send Spencer an email with your CV, transcripts, your current or intended degree program, and a few sentences on why the group interests you.
-See the [group website](https://comp-physics.group) for what we work on.
-
 ## Research and Collaboration
 
 ### How are research projects assigned?

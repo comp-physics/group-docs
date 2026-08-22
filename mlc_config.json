@@ -1,9 +1,9 @@
 {
-  "aliveStatusCodes": [
-    417,
-    403,
-    200,
-    429,
-    206
+  "aliveStatusCodes": [417, 403, 200, 429, 206],
+  "ignorePatterns": [
+    {
+      "comment": "ted.com blocks datacenter IPs, so CI runners get a connection failure while the link is fine in a browser. Verified 200 from a normal network.",
+      "pattern": "^https://www\\.ted\\.com/"
+    }
   ]
 }

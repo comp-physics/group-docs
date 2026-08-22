@@ -1,7 +1,7 @@
 /* Accent #d98a45 and light #e2a773 match --gold / --gold-light in the
    website's _sass/SHB_css.scss. Keep the two in sync. */
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
 
 :root {
   --md-primary-fg-color: #262829;
@@ -93,6 +93,14 @@ a:hover {
   display: none;
 }
 
+/* Material's content column is 61rem, which is 1220px at its 125% root and
+   1342px at 137.5%. The site's column is 1000px. Pinning the grid to 1000px
+   lines the docs content up with the navbar above it and with the site's own
+   pages, so the two read as one website rather than two. */
+.md-grid {
+  max-width: 1000px;
+}
+
 /* Top navbar — mirrors comp-physics.group Bootstrap navbar exactly */
 .md-banner {
   background-color: #242627 !important;
@@ -103,10 +111,14 @@ a:hover {
 
 /* Material wraps announce content in .md-banner__inner.md-grid.md-typeset —
    bust out of its max-width and padding so our navbar controls its own layout.
-   Also reset font-size to 16px so rem units inside resolve correctly. */
+
+   Every length below is in px, not rem. Material sets html{font-size:125%}
+   (137.5% on wide screens), so a rem here is 20-22px against the site's 16px
+   and every value would come out 25%+ too large. px keeps this navbar
+   pixel-identical to the site's regardless of Material's root scaling. */
 .md-banner__inner {
   max-width: 100% !important;
-  padding: 0 1rem !important;
+  padding: 0 !important;
   margin: 0 !important;
   font-size: 16px !important;
 }
@@ -117,19 +129,23 @@ a:hover {
   align-items: center;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0.55rem 0;
+  padding: 8.8px 12px;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .cp-navbar-brand {
-  display: flex;
-  align-items: center;
-  padding: 0.25rem 0;
-  margin-right: 1.25rem;
+  /* Inline, not flex. The site's brand is an inline box, so the newline
+     between the favicon and the wordmark renders as a real space on top of
+     the image's 5px margin. A flex container drops whitespace-only nodes and
+     the gap comes out ~4.5px tighter. */
+  display: block;
+  padding: 4px 0;
+  margin-right: 20px;
   color: #cec6bc !important;
   text-decoration: none !important;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 17.6px !important;
   font-weight: 600;
   white-space: nowrap;
@@ -145,8 +161,18 @@ a:hover {
 }
 
 .cp-navbar-brand img {
+  /* the site's img carries .d-inline-block.align-top */
+  display: inline-block;
+  vertical-align: top;
   margin-right: 5px;
-  border-radius: 3px;
+}
+
+/* The site wraps the brand and every nav label in <b>, so both render at 700
+   rather than the 600/500 their rules declare. Set it explicitly here so
+   Material's .md-typeset styling of <b> cannot change it. */
+.cp-navbar-brand b,
+.cp-navbar-links a b {
+  font-weight: 700;
 }
 
 .cp-navbar-links {
@@ -157,10 +183,10 @@ a:hover {
 .cp-navbar-links a {
   color: #d98a45 !important;
   text-decoration: none !important;
-  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 16.8px !important;
   font-weight: 500;
-  padding: 0.4rem 0.85rem;
+  padding: 8px 13.6px;
   white-space: nowrap;
   word-break: normal;
   overflow-wrap: normal;
@@ -172,8 +198,8 @@ a:hover {
   content: '';
   position: absolute;
   bottom: 0;
-  left: 0.85rem;
-  right: 0.85rem;
+  left: 13.6px;
+  right: 13.6px;
   height: 2px;
   background: #d98a45;
   transform: scaleX(0);
@@ -195,4 +221,29 @@ a:hover {
 
 .cp-navbar-active {
   color: #e2a773 !important;
+}
+
+/* The site widens the gutter below its md breakpoint; mirror that. */
+@media (max-width: 767px) {
+  .cp-navbar {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+/* Material kills every transition under prefers-reduced-motion with a
+   universal `*,:after,:before{transition:none!important}`. The site has no
+   equivalent rule, so its navbar underline animates regardless of the
+   setting. Re-enable the transitions for this navbar only, so the two match.
+   Kept deliberately narrow: Material's reduced-motion handling still applies
+   to the whole of the rest of the page. */
+@media (prefers-reduced-motion) {
+  .cp-navbar-brand,
+  .cp-navbar-links a {
+    transition: color 0.18s ease !important;
+  }
+
+  .cp-navbar-links a::after {
+    transition: transform 0.2s ease !important;
+  }
 }

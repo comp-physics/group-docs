@@ -14,9 +14,9 @@ There is no substitute for interactively thinking about your writing compared to
 ## Important: The "-X days" internal revision process and deadlines
 
 I have an internal deadline of "-X days" for abstracts, presentations, and papers.
-Anything with a deadline must be in the best state you can create __X__ days beforehand, where __X__ is the 7 + the number of pages the document is.
+Anything with a deadline must be in the best state you can create __X__ days beforehand, where __X__ is 7 plus the number of pages in the document.
 So, a 1-page abstract should be sent to me 8 days before it is due.
-A 10-page abstract with a formal deadline should be received by me 17 days before it is due.
+A 10-page paper with a formal deadline should be received by me 17 days before it is due.
 
 Most abstracts will have formal submission deadlines, so pay close attention to those and apply the -X rule.
 For conference presentations, send me your slides for revision at least _7 days before the conference starts_.
@@ -64,7 +64,7 @@ I will be your co-author and collaborator for most of your papers.
 As an advisor, I will train you to write academic papers during this co-authorship.
 
 We'll plan the paper together, thinking about its contributions, how to present them, the intended structure of the paper, and how to present the results.
-I typically ask my PhD students to write the first draft of each section in the paper independently.
+I typically ask my Ph.D. students to write the first draft of each section in the paper independently.
 
 For a first- or second-year student, the writing process might involve the student delivering an individual section for in-depth feedback from me, followed by rewrites by the students and, ultimately, extensive editing and rewriting by me.
 For a 5th-year student, one is likely (after discussing their thoughts on its direction and narrative) to go off and write a near-perfect paper on their own, followed by collaborative editing and rewriting.
@@ -79,7 +79,7 @@ You get a free Overleaf Pro account with your `utexas.edu` email address.
 ## Co-authorship
 
 As is common in our field, I will likely be a co-author on the papers we work on, which generally means most, if not all, of the papers you lead.
-Further, papers (and projects) often involve other collaborators, including faculty, PhD students, and MS/undergraduate students.
+Further, papers (and projects) often involve other collaborators, including faculty, Ph.D. students, and MS/undergraduate students.
 
 Authorship order can become important, and the default expectation is that you will be listed as the first author for your "Ph.D. papers."
 However, there are often other considerations for authorship order and first-author choice (e.g., an undergraduate who contributed significantly; a Ph.D. student you collaborated with equally) where you may not be a first author even for work that contributes to your Ph.D.

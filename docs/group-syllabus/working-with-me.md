@@ -66,7 +66,6 @@ You are always welcome to try, though!
 Most importantly, we will have a 45-60-minute weekly one-on-one meeting slot to discuss your work and progress, brainstorm ideas, and discuss any matter you want.
 Please feel free to ask for my time at any other point, e.g., for a quick ad-hoc meeting, which I will be happy to do whenever possible.
 
-Beyond the 1-1 meeting, you will be asked to attend the weekly group meeting where students share progress and other updates.
 You may also see me in project-specific meetings (the frequency of which depends on the project) when we collaborate with others.
 
 ## How to get a hold of me

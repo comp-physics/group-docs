@@ -100,4 +100,4 @@ If you are not making consistent contact with your colleagues, I will notice and
 If you have made significant research progress, you can present it at a conference!
 I have sent several undergraduates to conferences; nearly all UGs that worked with the group for > 1 year.
 Ask Spencer about undergraduate travel awards, which usually have their own deadlines relative to the conference date.
-Undergraduates __do not__ need to complete a spend authorization (but graduate students do).
+Undergraduates __do not__ need to file travel paperwork in advance (but graduate students do).

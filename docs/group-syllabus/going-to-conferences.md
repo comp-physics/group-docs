@@ -4,7 +4,6 @@
 __Related documents: [Giving talks](giving-talks.md)__
 
 Most of this goes for undergraduates and graduate students alike.
-The "spend authorization" part is only for graduate students.
 
 ## What's the point, anyway?
 
@@ -45,7 +44,7 @@ We know we are attending conferences many months in advance, so there is little 
 
 * Hotels: For conferences multiple students attend (APS DFD is a typical example), pair up in a two-bed hotel room with someone else. Hotels are getting quite expensive, so this saves a surprising amount of money. If you are uncomfortable rooming with other folks, please let me know. The conference will often offer a special rate for hotels nearby. Sometimes, this is a very good rate, and you should take advantage of it (it will expire once the full hotel block is taken, so be quick). Other times, the hotel rate is similar, and you can book any reasonable hotel near the conference venue.
 
-* Flights: Book your flights reasonably early-at least one month ahead.
+* Flights: Book your flights reasonably early, at least one month ahead.
 
 * Per diem: You will be reimbursed for your meals via the per diem rate for the conference location.
 

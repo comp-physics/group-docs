@@ -2,14 +2,19 @@
   "_comment": [
     "aliveStatusCodes deliberately omits 0. A status of 0 is a connection or DNS",
     "failure, so allowing it made the checker report genuinely dead links as",
-    "healthy -- three of them survived that way, including an NXDOMAIN host.",
+    "healthy -- three survived that way, including an NXDOMAIN host.",
     "",
-    "The cost is that hosts which block datacenter IPs also return 0 from GitHub's",
-    "runners while resolving fine in a browser. Those are listed below; each was",
-    "verified as returning 200 from a normal network. Add to this list only after",
-    "checking the link by hand."
+    "The cost is false positives from CI: some hosts refuse datacenter IPs, and",
+    "large files can exceed the default 10s timeout. The timeout and retries",
+    "below cover the slow cases; ignorePatterns lists hosts that block outright.",
+    "Every entry was verified by hand as returning 200 from a normal network.",
+    "Add to the list only after checking the link yourself."
   ],
   "aliveStatusCodes": [417, 403, 200, 429, 206],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "5s",
   "ignorePatterns": [
     { "pattern": "^https?://(www\\.)?ted\\.com/" },
     { "pattern": "^https?://(www\\.)?catb\\.org/" },
